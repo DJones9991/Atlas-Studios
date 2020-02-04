@@ -577,3 +577,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.04-11.36.56:164][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2020.02.04-11.36.56:164][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
 [2020.02.04-11.36.58:099][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.04-11.39.56:453][304]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.04-11.40.13:839][218]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.04-11.40.13:866][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IndividualFolders/Neal_Jamie/M_Test" FILE="U:/Journeyman/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Neal_Jamie/M_Test.uasset" SILENT=true
+[2020.02.04-11.40.13:898][218]LogSavePackage: Moving 'U:/Journeyman/Atlas-Studios/Asteroids_2020/Saved/M_Test2725C9694DF68251C9184CB2B9F23605.tmp' to 'U:/Journeyman/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Neal_Jamie/M_Test.uasset'
