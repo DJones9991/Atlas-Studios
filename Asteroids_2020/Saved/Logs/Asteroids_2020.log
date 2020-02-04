@@ -583,3 +583,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.04-11.40.13:898][218]LogSavePackage: Moving 'U:/Journeyman/Atlas-Studios/Asteroids_2020/Saved/M_Test2725C9694DF68251C9184CB2B9F23605.tmp' to 'U:/Journeyman/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Neal_Jamie/M_Test.uasset'
 [2020.02.04-11.42.04:652][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IndividualFolders/M_Ignore" FILE="U:/Journeyman/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/M_Ignore.uasset" SILENT=true
 [2020.02.04-11.42.04:682][916]LogSavePackage: Moving 'U:/Journeyman/Atlas-Studios/Asteroids_2020/Saved/M_Ignore9FC18BD54A1504BC29E60FB4C0BE6617.tmp' to 'U:/Journeyman/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/M_Ignore.uasset'
+[2020.02.04-11.44.18:715][564]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.04-11.44.21:911][807]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.04-11.44.30:076][633]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.04-11.45.00:572][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IndividualFolders/M_IgnoreThis" FILE="U:/Journeyman/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/M_IgnoreThis.uasset" SILENT=true
+[2020.02.04-11.45.00:615][211]LogSavePackage: Moving 'U:/Journeyman/Atlas-Studios/Asteroids_2020/Saved/M_IgnoreThisE38FFEB449C92F850CA4208B338D275B.tmp' to 'U:/Journeyman/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/M_IgnoreThis.uasset'
