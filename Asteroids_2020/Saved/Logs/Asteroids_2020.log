@@ -685,3 +685,393 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.06-09.10.12:772][847]LogPlayLevel: Display: Destroying online subsystem :Context_9
 [2020.03.06-09.10.56:729][636]LogSavePackage: Moving 'U:/Atlas-Studios/Asteroids_2020/Saved/Shop_Vendor0A78A9CD49829274DA152D8525908643.tmp' to 'U:/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Tom_Wych/Shop_Vendor.umap'
 [2020.03.06-09.10.59:082][636]LogFileHelpers: Saving map 'Shop_Vendor' took 17.997
+[2020.03.06-09.14.11:947][604]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.06-09.14.12:009][604]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-09.14.12:009][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.06-09.14.12:009][604]PIE: New page: PIE session: Shop_Vendor (6 Mar 2020 09:14:12)
+[2020.03.06-09.14.12:009][604]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor
+[2020.03.06-09.14.12:013][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003392s)
+[2020.03.06-09.14.12:014][604]LogAIModule: Creating AISystem for world Shop_Vendor
+[2020.03.06-09.14.12:014][604]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2020.03.06-09.14.12:014][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor to /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor (0.004696s)
+[2020.03.06-09.14.12:085][604]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.06-09.14.12:134][604]LogInit: FAudioDevice initialized.
+[2020.03.06-09.14.12:166][604]LogLoad: Game class is 'GameModeBase'
+[2020.03.06-09.14.12:167][604]LogWorld: Bringing World /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor up for play (max tick rate 0) at 2020.03.06-09.14.12
+[2020.03.06-09.14.12:167][604]LogWorld: Bringing up level for play took: 0.000562
+[2020.03.06-09.14.12:182][604]PIE: Play in editor start time for /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor 0.89
+[2020.03.06-09.14.12:182][604]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-09.14.13:628][768]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-09.14.13:628][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-09.14.13:666][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.06-09.14.13:666][768]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-09.14.13:703][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-09.14.13:733][771]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.03.06-09.14.14:306][837]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.06-09.14.14:348][837]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-09.14.14:348][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.06-09.14.14:348][837]PIE: New page: PIE session: Shop_Vendor (6 Mar 2020 09:14:14)
+[2020.03.06-09.14.14:348][837]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor
+[2020.03.06-09.14.14:349][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001220s)
+[2020.03.06-09.14.14:350][837]LogAIModule: Creating AISystem for world Shop_Vendor
+[2020.03.06-09.14.14:350][837]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2020.03.06-09.14.14:350][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor to /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor (0.001890s)
+[2020.03.06-09.14.14:408][837]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.06-09.14.14:467][837]LogInit: FAudioDevice initialized.
+[2020.03.06-09.14.14:502][837]LogLoad: Game class is 'GameModeBase'
+[2020.03.06-09.14.14:503][837]LogWorld: Bringing World /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor up for play (max tick rate 0) at 2020.03.06-09.14.14
+[2020.03.06-09.14.14:504][837]LogWorld: Bringing up level for play took: 0.000907
+[2020.03.06-09.14.14:519][837]PIE: Play in editor start time for /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor -0.774
+[2020.03.06-09.14.14:519][837]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-09.14.15:629][968]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-09.14.15:630][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-09.14.15:666][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.06-09.14.15:666][968]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-09.14.15:701][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-09.14.15:730][971]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.03.06-09.17.04:150][581]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.06-09.17.04:194][581]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-09.17.04:194][581]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.06-09.17.04:194][581]PIE: New page: PIE session: Shop_Vendor (6 Mar 2020 09:17:04)
+[2020.03.06-09.17.04:194][581]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor
+[2020.03.06-09.17.04:197][581]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002707s)
+[2020.03.06-09.17.04:197][581]LogAIModule: Creating AISystem for world Shop_Vendor
+[2020.03.06-09.17.04:198][581]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2020.03.06-09.17.04:198][581]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor to /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor (0.003489s)
+[2020.03.06-09.17.04:246][581]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.06-09.17.04:283][581]LogInit: FAudioDevice initialized.
+[2020.03.06-09.17.04:317][581]LogLoad: Game class is 'GameModeBase'
+[2020.03.06-09.17.04:318][581]LogWorld: Bringing World /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor up for play (max tick rate 0) at 2020.03.06-09.17.04
+[2020.03.06-09.17.04:319][581]LogWorld: Bringing up level for play took: 0.000881
+[2020.03.06-09.17.04:335][581]PIE: Play in editor start time for /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor 1.044
+[2020.03.06-09.17.04:336][581]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-09.17.33:349][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.06-09.17.51:024][144]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-09.17.51:024][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-09.17.51:057][144]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.06-09.17.51:058][144]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-09.17.51:102][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-09.17.51:124][146]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.03.06-09.37.04:388][ 53]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.06-09.37.04:435][ 53]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-09.37.04:435][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.06-09.37.04:435][ 53]PIE: New page: PIE session: Shop_Vendor (6 Mar 2020 09:37:04)
+[2020.03.06-09.37.04:435][ 53]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor
+[2020.03.06-09.37.04:438][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002654s)
+[2020.03.06-09.37.04:439][ 53]LogAIModule: Creating AISystem for world Shop_Vendor
+[2020.03.06-09.37.04:439][ 53]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2020.03.06-09.37.04:439][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor to /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor (0.003507s)
+[2020.03.06-09.37.04:493][ 53]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.06-09.37.04:529][ 53]LogInit: FAudioDevice initialized.
+[2020.03.06-09.37.04:565][ 53]LogLoad: Game class is 'GameModeBase'
+[2020.03.06-09.37.04:566][ 53]LogWorld: Bringing World /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor up for play (max tick rate 0) at 2020.03.06-09.37.04
+[2020.03.06-09.37.04:566][ 53]LogWorld: Bringing up level for play took: 0.000503
+[2020.03.06-09.37.04:579][ 53]PIE: Play in editor start time for /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor -0.703
+[2020.03.06-09.37.04:579][ 53]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-09.38.04:403][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.06-09.40.06:780][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.06-09.40.06:847][380]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-09.40.06:847][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-09.40.06:880][380]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.06-09.40.06:880][380]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-09.40.06:919][380]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-09.40.06:949][383]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.03.06-09.40.55:996][348]LogAIModule: Creating AISystem for world L_MenuMain
+[2020.03.06-09.40.56:001][348]LogAssetEditorManager: Opening Asset editor for World /Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain
+[2020.03.06-09.40.56:053][348]Cmd: MAP LOAD FILE="U:/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.06-09.40.56:053][348]LightingResults: New page: Lighting Build
+[2020.03.06-09.40.56:053][348]LoadErrors: New page: Loading map: L_MenuMain.umap
+[2020.03.06-09.40.56:125][348]MapCheck: New page: Map Check
+[2020.03.06-09.40.56:125][348]LightingResults: New page: Lighting Build
+[2020.03.06-09.40.56:202][348]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.06-09.40.56:318][348]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.06-09.40.56:318][348]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.216ms to complete.
+[2020.03.06-09.40.56:318][348]LogFileHelpers: Loading map 'L_MenuMain' took 0.267
+[2020.03.06-09.40.58:871][460]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.06-09.40.58:914][460]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel.L_MenuMain' with GeneratedClass '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain_C' with ClassGeneratedBy '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel.L_MenuMain'
+[2020.03.06-09.40.58:914][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.06-09.40.58:915][460]PIE: New page: PIE session: L_MenuMain (6 Mar 2020 09:40:58)
+[2020.03.06-09.40.58:915][460]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Dana_Sawdon/Maps/UEDPIE_0_L_MenuMain
+[2020.03.06-09.40.58:918][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001124s)
+[2020.03.06-09.40.58:918][460]LogAIModule: Creating AISystem for world L_MenuMain
+[2020.03.06-09.40.58:918][460]LogPlayLevel: PIE: World Init took: (0.000647s)
+[2020.03.06-09.40.58:918][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain to /Game/IndividualFolders/Dana_Sawdon/Maps/UEDPIE_0_L_MenuMain.L_MenuMain (0.004150s)
+[2020.03.06-09.40.58:978][460]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.06-09.40.59:022][460]LogInit: FAudioDevice initialized.
+[2020.03.06-09.40.59:057][460]LogLoad: Game class is 'GameModeBase'
+[2020.03.06-09.40.59:058][460]LogWorld: Bringing World /Game/IndividualFolders/Dana_Sawdon/Maps/UEDPIE_0_L_MenuMain.L_MenuMain up for play (max tick rate 0) at 2020.03.06-09.40.59
+[2020.03.06-09.40.59:058][460]LogWorld: Bringing up level for play took: 0.000553
+[2020.03.06-09.40.59:080][460]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.03.06-09.40.59:080][460]PIE: Play in editor start time for /Game/IndividualFolders/Dana_Sawdon/Maps/UEDPIE_0_L_MenuMain -0.199
+[2020.03.06-09.40.59:080][460]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel.L_MenuMain' with GeneratedClass '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain_C' with ClassGeneratedBy '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel.L_MenuMain'
+[2020.03.06-09.41.01:377][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.06-09.50.57:321][284]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel.L_MenuMain' with GeneratedClass '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain_C' with ClassGeneratedBy '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel.L_MenuMain'
+[2020.03.06-09.50.57:322][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-09.50.57:356][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.06-09.50.57:356][284]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel.L_MenuMain' with GeneratedClass '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain_C' with ClassGeneratedBy '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel.L_MenuMain'
+[2020.03.06-09.50.57:392][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-09.50.57:422][285]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.03.06-09.59.48:545][350]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.03.06-09.59.48:979][351]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.03.06-09.59.49:408][353]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.03.06-09.59.49:894][358]LogEditorTransaction: Undo Animatable Property Changed
+[2020.03.06-10.01.46:099][450]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain' took 0.068
+[2020.03.06-10.01.46:106][450]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IndividualFolders/Tom_Wych/User_Interface/TW_W_StationShop_2] ([1] browsable assets)...
+[2020.03.06-10.01.46:106][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/IndividualFolders/Tom_Wych/User_Interface/TW_W_StationShop_2]
+[2020.03.06-10.01.52:505][450]LogSavePackage: Moving 'U:/Atlas-Studios/Asteroids_2020/Saved/TW_W_StationShop_2_Auto1726B346742DE6B322D5D8D873428EDC1.tmp' to 'U:/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Tom_Wych/User_Interface/TW_W_StationShop_2_Auto1.uasset'
+[2020.03.06-10.01.52:540][450]LogFileHelpers: Auto-saving content packages took 6.440
+[2020.03.06-10.02.26:077][551]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.06-10.02.26:141][551]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel.L_MenuMain' with GeneratedClass '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain_C' with ClassGeneratedBy '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel.L_MenuMain'
+[2020.03.06-10.02.26:141][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.06-10.02.26:142][551]PIE: New page: PIE session: L_MenuMain (6 Mar 2020 10:02:26)
+[2020.03.06-10.02.26:142][551]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Dana_Sawdon/Maps/UEDPIE_0_L_MenuMain
+[2020.03.06-10.02.26:146][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003929s)
+[2020.03.06-10.02.26:147][551]LogAIModule: Creating AISystem for world L_MenuMain
+[2020.03.06-10.02.26:148][551]LogPlayLevel: PIE: World Init took: (0.001669s)
+[2020.03.06-10.02.26:148][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain to /Game/IndividualFolders/Dana_Sawdon/Maps/UEDPIE_0_L_MenuMain.L_MenuMain (0.005921s)
+[2020.03.06-10.02.26:220][551]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.06-10.02.26:285][551]LogInit: FAudioDevice initialized.
+[2020.03.06-10.02.26:331][551]LogLoad: Game class is 'GameModeBase'
+[2020.03.06-10.02.26:333][551]LogWorld: Bringing World /Game/IndividualFolders/Dana_Sawdon/Maps/UEDPIE_0_L_MenuMain.L_MenuMain up for play (max tick rate 0) at 2020.03.06-10.02.26
+[2020.03.06-10.02.26:333][551]LogWorld: Bringing up level for play took: 0.001313
+[2020.03.06-10.02.26:356][551]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.03.06-10.02.26:356][551]PIE: Play in editor start time for /Game/IndividualFolders/Dana_Sawdon/Maps/UEDPIE_0_L_MenuMain 1.085
+[2020.03.06-10.02.26:356][551]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel.L_MenuMain' with GeneratedClass '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain_C' with ClassGeneratedBy '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel.L_MenuMain'
+[2020.03.06-10.02.28:354][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.06-10.02.28:415][668]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel.L_MenuMain' with GeneratedClass '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain_C' with ClassGeneratedBy '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel.L_MenuMain'
+[2020.03.06-10.02.28:415][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-10.02.28:450][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.06-10.02.28:450][668]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel.L_MenuMain' with GeneratedClass '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain_C' with ClassGeneratedBy '/Game/IndividualFolders/Dana_Sawdon/Maps/L_MenuMain.L_MenuMain:PersistentLevel.L_MenuMain'
+[2020.03.06-10.02.28:482][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-10.02.28:522][670]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.03.06-10.02.32:834][876]LogAIModule: Creating AISystem for world Shop_Vendor
+[2020.03.06-10.02.32:837][876]LogAssetEditorManager: Opening Asset editor for World /Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor
+[2020.03.06-10.02.35:370][876]LogSlate: Window 'Save Content' being destroyed
+[2020.03.06-10.02.40:525][876]LogSavePackage: Moving 'U:/Atlas-Studios/Asteroids_2020/Saved/TW_W_StationShop_27A408DEE417A071A8085FB81AC656023.tmp' to 'U:/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Tom_Wych/User_Interface/TW_W_StationShop_2.uasset'
+[2020.03.06-10.02.40:932][876]Cmd: MAP LOAD FILE="U:/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Tom_Wych/Shop_Vendor.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.06-10.02.40:932][876]LightingResults: New page: Lighting Build
+[2020.03.06-10.02.40:934][876]LoadErrors: New page: Loading map: Shop_Vendor.umap
+[2020.03.06-10.02.40:947][876]MapCheck: New page: Map Check
+[2020.03.06-10.02.40:948][876]LightingResults: New page: Lighting Build
+[2020.03.06-10.02.41:032][876]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.06-10.02.41:455][876]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.06-10.02.41:458][876]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.501ms to complete.
+[2020.03.06-10.02.41:458][876]LogFileHelpers: Loading map 'Shop_Vendor' took 0.528
+[2020.03.06-10.02.43:187][973]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.06-10.02.43:229][973]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.02.43:229][973]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.06-10.02.43:229][973]PIE: New page: PIE session: Shop_Vendor (6 Mar 2020 10:02:43)
+[2020.03.06-10.02.43:229][973]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor
+[2020.03.06-10.02.43:232][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002526s)
+[2020.03.06-10.02.43:232][973]LogAIModule: Creating AISystem for world Shop_Vendor
+[2020.03.06-10.02.43:232][973]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2020.03.06-10.02.43:233][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor to /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor (0.003261s)
+[2020.03.06-10.02.43:286][973]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.06-10.02.43:323][973]LogInit: FAudioDevice initialized.
+[2020.03.06-10.02.43:363][973]LogLoad: Game class is 'GameModeBase'
+[2020.03.06-10.02.43:364][973]LogWorld: Bringing World /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor up for play (max tick rate 0) at 2020.03.06-10.02.43
+[2020.03.06-10.02.43:365][973]LogWorld: Bringing up level for play took: 0.000639
+[2020.03.06-10.02.43:380][973]PIE: Play in editor start time for /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor 0.11
+[2020.03.06-10.02.43:381][973]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.02.45:927][116]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.02.45:928][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-10.02.45:964][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.06-10.02.45:964][116]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.02.45:998][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-10.02.46:047][118]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.03.06-10.02.49:551][335]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.06-10.02.52:128][370]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.06-10.02.52:131][370]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor
+[2020.03.06-10.02.52:776][376]PIE: Warning: Constraint in '/Engine/Transient.World_11:PersistentLevel.JN_BP_TaserCable_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2020.03.06-10.02.52:776][376]PIE: Warning: Constraint in '/Engine/Transient.World_11:PersistentLevel.JN_BP_TaserCable_C_0.PhysicsConstraint1' attempting to create a joint between objects that are both static.  No joint created.
+[2020.03.06-10.02.52:776][376]PIE: Warning: Constraint in '/Engine/Transient.World_11:PersistentLevel.JN_BP_TaserCable_C_0.PhysicsConstraint2' attempting to create a joint between objects that are both static.  No joint created.
+[2020.03.06-10.02.52:776][376]PIE: Warning: Constraint in '/Engine/Transient.World_11:PersistentLevel.JN_BP_TaserCable_C_0.PhysicsConstraint3' attempting to create a joint between objects that are both static.  No joint created.
+[2020.03.06-10.02.52:776][376]PIE: Warning: Constraint in '/Engine/Transient.World_11:PersistentLevel.JN_BP_TaserCable_C_0.PhysicsConstraint4' attempting to create a joint between objects that are both static.  No joint created.
+[2020.03.06-10.02.52:776][376]PIE: Warning: Constraint in '/Engine/Transient.World_11:PersistentLevel.JN_BP_TaserCable_C_0.PhysicsConstraint5' attempting to create a joint between objects that are both static.  No joint created.
+[2020.03.06-10.04.56:868][837]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.03.06-10.04.57:226][837]LogEditorTransaction: Undo Add Keys at Current Time
+[2020.03.06-10.04.57:539][837]LogEditorTransaction: Undo Animatable Property Changed
+[2020.03.06-10.05.46:527][820]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.06-10.05.54:282][234]BlueprintLog: New page: Compile TW_W_StationShop_2
+[2020.03.06-10.05.55:780][307]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.06-10.05.55:836][307]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.05.55:836][307]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.06-10.05.55:838][307]LogPlayLevel: [PlayLevel] Compiling Shop_Vendor before play...
+[2020.03.06-10.05.56:025][307]LogPlayLevel: PlayLevel: Blueprint regeneration took 189 ms (1 blueprints)
+[2020.03.06-10.05.56:025][307]PIE: New page: PIE session: Shop_Vendor (6 Mar 2020 10:05:56)
+[2020.03.06-10.05.56:025][307]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor
+[2020.03.06-10.05.56:028][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002816s)
+[2020.03.06-10.05.56:029][307]LogAIModule: Creating AISystem for world Shop_Vendor
+[2020.03.06-10.05.56:030][307]LogPlayLevel: PIE: World Init took: (0.001497s)
+[2020.03.06-10.05.56:030][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor to /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor (0.004539s)
+[2020.03.06-10.05.56:077][307]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.06-10.05.56:121][307]LogInit: FAudioDevice initialized.
+[2020.03.06-10.05.56:170][307]LogLoad: Game class is 'GameModeBase'
+[2020.03.06-10.05.56:172][307]LogWorld: Bringing World /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor up for play (max tick rate 0) at 2020.03.06-10.05.56
+[2020.03.06-10.05.56:172][307]LogWorld: Bringing up level for play took: 0.001112
+[2020.03.06-10.05.56:191][307]PIE: Play in editor start time for /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor 0.921
+[2020.03.06-10.05.56:191][307]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.05.57:255][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.06-10.05.57:318][368]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.05.57:318][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-10.05.57:354][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.06-10.05.57:354][368]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.05.57:392][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-10.05.57:432][370]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.03.06-10.06.10:531][981]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.06-10.06.24:516][809]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.06-10.07.39:967][720]BlueprintLog: New page: Compile TW_W_StationShop_2
+[2020.03.06-10.07.44:867][183]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.06-10.07.44:937][183]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.07.44:937][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.06-10.07.44:937][183]PIE: New page: PIE session: Shop_Vendor (6 Mar 2020 10:07:44)
+[2020.03.06-10.07.44:937][183]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor
+[2020.03.06-10.07.44:941][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003992s)
+[2020.03.06-10.07.44:942][183]LogAIModule: Creating AISystem for world Shop_Vendor
+[2020.03.06-10.07.44:943][183]LogPlayLevel: PIE: World Init took: (0.001415s)
+[2020.03.06-10.07.44:943][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor to /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor (0.005714s)
+[2020.03.06-10.07.45:001][183]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.06-10.07.45:039][183]LogInit: FAudioDevice initialized.
+[2020.03.06-10.07.45:072][183]LogLoad: Game class is 'GameModeBase'
+[2020.03.06-10.07.45:073][183]LogWorld: Bringing World /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor up for play (max tick rate 0) at 2020.03.06-10.07.45
+[2020.03.06-10.07.45:073][183]LogWorld: Bringing up level for play took: 0.000413
+[2020.03.06-10.07.45:087][183]PIE: Play in editor start time for /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor -0.182
+[2020.03.06-10.07.45:088][183]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.07.47:586][449]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.07.47:586][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-10.07.47:619][449]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.06-10.07.47:619][449]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.07.47:653][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-10.07.47:691][450]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.03.06-10.10.40:020][560]BlueprintLog: New page: Compile TW_W_StationShop_2
+[2020.03.06-10.10.43:574][800]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.06-10.10.43:637][800]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.10.43:637][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.06-10.10.43:637][800]PIE: New page: PIE session: Shop_Vendor (6 Mar 2020 10:10:43)
+[2020.03.06-10.10.43:637][800]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor
+[2020.03.06-10.10.43:639][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002516s)
+[2020.03.06-10.10.43:640][800]LogAIModule: Creating AISystem for world Shop_Vendor
+[2020.03.06-10.10.43:640][800]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2020.03.06-10.10.43:640][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor to /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor (0.003313s)
+[2020.03.06-10.10.43:693][800]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.06-10.10.43:743][800]LogInit: FAudioDevice initialized.
+[2020.03.06-10.10.43:781][800]LogLoad: Game class is 'GameModeBase'
+[2020.03.06-10.10.43:782][800]LogWorld: Bringing World /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor up for play (max tick rate 0) at 2020.03.06-10.10.43
+[2020.03.06-10.10.43:783][800]LogWorld: Bringing up level for play took: 0.001027
+[2020.03.06-10.10.43:800][800]PIE: Play in editor start time for /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor 0.531
+[2020.03.06-10.10.43:800][800]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.13.36:447][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:459][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:477][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:483][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:488][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:494][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:499][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:505][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:512][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:517][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:523][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:532][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:542][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:548][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:554][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:562][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:590][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:598][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:603][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:608][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:634][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:639][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:644][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:649][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:654][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.13.36:661][496]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.06-10.24.40:281][477]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.24.40:281][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-10.24.40:322][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.06-10.24.40:322][477]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.24.40:368][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-10.24.40:394][478]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.03.06-10.25.25:869][125]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.06-10.25.29:884][555]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.06-10.25.35:212][555]LogTexture: Display: Building textures: nebula (AutoDXT, 3840X2160)
+[2020.03.06-10.25.36:621][693]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.06-10.25.49:698][ 84]BlueprintLog: New page: Compile Shop_Vendor
+[2020.03.06-10.25.50:897][182]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.06-10.25.50:943][182]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.25.50:943][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.06-10.25.50:944][182]PIE: New page: PIE session: Shop_Vendor (6 Mar 2020 10:25:50)
+[2020.03.06-10.25.50:944][182]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor
+[2020.03.06-10.25.50:947][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002771s)
+[2020.03.06-10.25.50:947][182]LogAIModule: Creating AISystem for world Shop_Vendor
+[2020.03.06-10.25.50:947][182]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2020.03.06-10.25.50:947][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor to /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor (0.003555s)
+[2020.03.06-10.25.51:005][182]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.06-10.25.51:056][182]LogInit: FAudioDevice initialized.
+[2020.03.06-10.25.51:096][182]LogLoad: Game class is 'GameModeBase'
+[2020.03.06-10.25.51:097][182]LogWorld: Bringing World /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor up for play (max tick rate 0) at 2020.03.06-10.25.51
+[2020.03.06-10.25.51:098][182]LogWorld: Bringing up level for play took: 0.001034
+[2020.03.06-10.25.51:117][182]PIE: Play in editor start time for /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor -0.145
+[2020.03.06-10.25.51:117][182]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.25.53:343][413]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.25.53:343][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-10.25.53:384][413]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.06-10.25.53:384][413]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.25.53:420][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-10.25.53:453][414]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.03.06-10.26.01:401][245]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/IndividualFolders/Ethan_Shepherd/ScoreDisplay.ScoreDisplay
+[2020.03.06-10.26.26:656][789]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.06-10.26.26:705][789]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.26.26:705][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.06-10.26.26:705][789]PIE: New page: PIE session: Shop_Vendor (6 Mar 2020 10:26:26)
+[2020.03.06-10.26.26:705][789]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor
+[2020.03.06-10.26.26:708][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002614s)
+[2020.03.06-10.26.26:708][789]LogAIModule: Creating AISystem for world Shop_Vendor
+[2020.03.06-10.26.26:709][789]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2020.03.06-10.26.26:709][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor to /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor (0.003403s)
+[2020.03.06-10.26.26:765][789]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.06-10.26.26:826][789]LogInit: FAudioDevice initialized.
+[2020.03.06-10.26.26:862][789]LogLoad: Game class is 'GameModeBase'
+[2020.03.06-10.26.26:864][789]LogWorld: Bringing World /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor up for play (max tick rate 0) at 2020.03.06-10.26.26
+[2020.03.06-10.26.26:864][789]LogWorld: Bringing up level for play took: 0.000921
+[2020.03.06-10.26.26:883][789]PIE: Play in editor start time for /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor -0.379
+[2020.03.06-10.26.26:883][789]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.26.31:721][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.06-10.26.31:775][119]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.26.31:776][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-10.26.31:811][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.06-10.26.31:812][119]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.26.31:848][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-10.26.31:884][121]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.03.06-10.27.00:004][934]LogSavePackage: Moving 'U:/Atlas-Studios/Asteroids_2020/Saved/Shop_Vendor_Auto2EF30AB074DCD44AC18F9C28F6486F562.tmp' to 'U:/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Tom_Wych/Shop_Vendor_Auto2.umap'
+[2020.03.06-10.27.00:051][934]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IndividualFolders/Tom_Wych/Shop_Vendor' took 0.791
+[2020.03.06-10.27.00:051][934]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.791
+[2020.03.06-10.27.00:054][934]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IndividualFolders/Tom_Wych/User_Interface/TW_W_StationShop_2] ([1] browsable assets)...
+[2020.03.06-10.27.00:054][934]OBJ SavePackage: Finished generating thumbnails for package [/Game/IndividualFolders/Tom_Wych/User_Interface/TW_W_StationShop_2]
+[2020.03.06-10.27.02:383][934]LogSavePackage: Moving 'U:/Atlas-Studios/Asteroids_2020/Saved/TW_W_StationShop_2_Auto2295CD1A6435BFFD2B136D39CE685ABBD.tmp' to 'U:/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Tom_Wych/User_Interface/TW_W_StationShop_2_Auto2.uasset'
+[2020.03.06-10.27.02:419][934]LogFileHelpers: Auto-saving content packages took 2.367
+[2020.03.06-10.34.25:652][335]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.06-10.34.25:702][335]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.34.25:703][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.06-10.34.25:703][335]PIE: New page: PIE session: Shop_Vendor (6 Mar 2020 10:34:25)
+[2020.03.06-10.34.25:703][335]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor
+[2020.03.06-10.34.25:706][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002803s)
+[2020.03.06-10.34.25:706][335]LogAIModule: Creating AISystem for world Shop_Vendor
+[2020.03.06-10.34.25:707][335]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2020.03.06-10.34.25:707][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor to /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor (0.003711s)
+[2020.03.06-10.34.25:774][335]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.06-10.34.25:819][335]LogInit: FAudioDevice initialized.
+[2020.03.06-10.34.25:857][335]LogLoad: Game class is 'GameModeBase'
+[2020.03.06-10.34.25:859][335]LogWorld: Bringing World /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor.Shop_Vendor up for play (max tick rate 0) at 2020.03.06-10.34.25
+[2020.03.06-10.34.25:859][335]LogWorld: Bringing up level for play took: 0.001102
+[2020.03.06-10.34.25:878][335]PIE: Play in editor start time for /Game/IndividualFolders/Tom_Wych/UEDPIE_0_Shop_Vendor 0.698
+[2020.03.06-10.34.25:878][335]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.34.29:318][569]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.34.29:319][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-10.34.29:353][569]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.06-10.34.29:354][569]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor' with GeneratedClass '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor_C' with ClassGeneratedBy '/Game/IndividualFolders/Tom_Wych/Shop_Vendor.Shop_Vendor:PersistentLevel.Shop_Vendor'
+[2020.03.06-10.34.29:397][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.06-10.34.29:422][570]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.03.06-10.45.10:606][388]LogSavePackage: Moving 'U:/Atlas-Studios/Asteroids_2020/Saved/Shop_Vendor82EA401D472F4E3A5B94C6A7798ED5D6.tmp' to 'U:/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Tom_Wych/Shop_Vendor.umap'
+[2020.03.06-10.45.10:754][388]LogFileHelpers: Saving map 'Shop_Vendor' took 0.832
+[2020.03.06-10.45.13:060][388]LogSavePackage: Moving 'U:/Atlas-Studios/Asteroids_2020/Saved/TW_W_StationShop_2F7D861764C10556117E9D28C52707A66.tmp' to 'U:/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Tom_Wych/User_Interface/TW_W_StationShop_2.uasset'
