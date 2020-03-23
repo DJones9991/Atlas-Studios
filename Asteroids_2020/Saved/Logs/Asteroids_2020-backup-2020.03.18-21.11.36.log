@@ -1,0 +1,1828 @@
+﻿Log file open, 03/18/20 12:59:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Asteroids_2020
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.450051
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin UnrealEnginePython
+LogStreaming: Display: Took  0.286s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU:       Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz, GPU: NVIDIA Quadro K2000
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.007s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.18-12.59.33:278][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.18-12.59.33:278][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.18-12.59.33:278][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Engine.ini]
+[2020.03.18-12.59.33:278][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.18-12.59.33:278][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.03.18-12.59.33:278][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.03.18-12.59.33:278][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Engine.ini]
+[2020.03.18-12.59.33:278][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Engine.ini]
+[2020.03.18-12.59.33:278][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.18-12.59.33:278][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.18-12.59.33:278][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Engine.ini]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.18-12.59.33:279][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Engine.ini]
+[2020.03.18-12.59.33:279][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Engine.ini]
+[2020.03.18-12.59.33:284][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.18-12.59.33:284][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.18-12.59.33:285][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.18-12.59.33:285][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.18-12.59.33:285][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.18-12.59.33:321][  0]LogHAL: Display: Platform has ~ 32 GB [34301190144 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.03.18-12.59.33:321][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.18-12.59.33:321][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.18-12.59.33:321][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.18-12.59.33:322][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.18-12.59.33:323][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.18-12.59.33:323][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Engine.ini]
+[2020.03.18-12.59.33:323][  0]LogInit: Computer: DESKTOP-C5NK277
+[2020.03.18-12.59.33:323][  0]LogInit: User: admin
+[2020.03.18-12.59.33:323][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.03.18-12.59.33:323][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.18-12.59.33:323][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.03.18-12.59.33:323][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.18-12.59.33:323][  0]LogMemory: Process Physical Memory: 104.54 MB used, 104.55 MB peak
+[2020.03.18-12.59.33:323][  0]LogMemory: Process Virtual Memory: 98.31 MB used, 98.31 MB peak
+[2020.03.18-12.59.33:323][  0]LogMemory: Physical Memory: 4964.29 MB used,  27747.87 MB free, 32712.16 MB total
+[2020.03.18-12.59.33:323][  0]LogMemory: Virtual Memory: 4660.00 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2020.03.18-12.59.33:356][  0]LogInit: Using OS detected language (en-US).
+[2020.03.18-12.59.33:356][  0]LogInit: Using OS detected locale (en-GB).
+[2020.03.18-12.59.33:358][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.03.18-12.59.33:781][  0]LogStreaming: Display: Took  0.425s to InitEngineTextLocalization.
+[2020.03.18-12.59.33:781][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.18-12.59.33:840][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.18-12.59.33:840][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.18-12.59.34:186][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.18-12.59.34:186][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.18-12.59.34:266][  0]LogD3D11RHI:    0. 'NVIDIA Quadro K2000' (Feature Level 11_0)
+[2020.03.18-12.59.34:267][  0]LogD3D11RHI:       2007/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.03.18-12.59.34:270][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.18-12.59.34:270][  0]LogD3D11RHI:       0/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.18-12.59.34:270][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.18-12.59.34:277][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.18-12.59.34:277][  0]LogD3D11RHI:     GPU DeviceId: 0xffe (for the marketing name, search the web for "GPU Device Id")
+[2020.03.18-12.59.34:277][  0]LogWindows: EnumDisplayDevices:
+[2020.03.18-12.59.34:277][  0]LogWindows:    0. 'NVIDIA Quadro K2000' (P:1 D:1)
+[2020.03.18-12.59.34:278][  0]LogWindows:    1. 'NVIDIA Quadro K2000' (P:0 D:0)
+[2020.03.18-12.59.34:279][  0]LogWindows:    2. 'NVIDIA Quadro K2000' (P:0 D:0)
+[2020.03.18-12.59.34:279][  0]LogWindows:    3. 'NVIDIA Quadro K2000' (P:0 D:0)
+[2020.03.18-12.59.34:280][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.03.18-12.59.34:280][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro K2000
+[2020.03.18-12.59.34:280][  0]LogD3D11RHI:   Driver Version: 431.02 (internal:26.21.14.3102, unified:431.02)
+[2020.03.18-12.59.34:280][  0]LogD3D11RHI:      Driver Date: 6-3-2019
+[2020.03.18-12.59.34:280][  0]LogRHI: Texture pool is 1404 MB (70% of 2007 MB)
+[2020.03.18-12.59.34:338][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.18-12.59.34:352][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.18-12.59.34:930][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.03.18-12.59.34:948][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.03.18-12.59.34:967][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.03.18-12.59.34:985][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.03.18-12.59.35:004][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.03.18-12.59.35:023][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.03.18-12.59.35:042][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.03.18-12.59.35:060][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.03.18-12.59.35:070][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.03.18-12.59.35:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.18-12.59.35:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.18-12.59.35:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.18-12.59.35:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.18-12.59.35:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.18-12.59.35:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.18-12.59.35:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.18-12.59.35:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.18-12.59.35:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.18-12.59.35:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.18-12.59.35:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.18-12.59.35:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.18-12.59.35:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.18-12.59.35:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.18-12.59.35:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.18-12.59.35:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.18-12.59.35:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.18-12.59.35:181][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.18-12.59.35:186][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.03.18-12.59.35:264][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.03.18-12.59.35:264][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.03.18-12.59.35:293][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.03.18-12.59.35:293][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.03.18-12.59.35:322][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.03.18-12.59.35:338][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.03.18-12.59.35:353][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.03.18-12.59.35:370][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.03.18-12.59.35:429][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.03.18-12.59.35:429][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.03.18-12.59.35:429][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.18-12.59.35:535][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Intermediate/Shaders/WorkingDirectory/9940/).
+[2020.03.18-12.59.35:536][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/admin/AppData/Local/Temp/UnrealShaderWorkingDir/7C67BFBB484C41B5E95C279B9C2B5500/'.
+[2020.03.18-12.59.35:540][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.18-12.59.35:541][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.18-12.59.35:541][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.18-12.59.36:261][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.18-12.59.36:340][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/admin/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.03.18-12.59.36:340][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/admin/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.03.18-12.59.36:340][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.18-12.59.36:340][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.18-12.59.36:340][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.18-12.59.36:340][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.18-12.59.36:357][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.18-12.59.36:358][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.18-12.59.36:358][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.18-12.59.36:370][  0]LogDerivedDataCache: Using Local data cache path C:/Users/admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.18-12.59.36:370][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.18-12.59.36:370][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.18-12.59.36:413][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.18-12.59.36:414][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.18-12.59.36:415][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.18-12.59.36:557][  0]LogAssetRegistry: FAssetRegistry took 0.0399 seconds to start up
+[2020.03.18-12.59.37:087][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.18-12.59.37:319][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.03.18-12.59.37:326][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.03.18-12.59.37:326][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.18-12.59.37:326][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.18-12.59.37:326][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.03.18-12.59.37:346][  0]LogNetVersion: Asteroids_2020 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1957075933)
+[2020.03.18-12.59.38:030][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.081822 seconds
+[2020.03.18-12.59.38:035][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.03.18-12.59.38:035][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2020.03.18-12.59.38:035][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.18-12.59.39:038][  0]LogWmfMedia: Failed to load mf.dll
+[2020.03.18-12.59.39:038][  0]LogWmfMedia: Failed to load required Windows Media Foundation libraries
+[2020.03.18-12.59.39:045][  0]LogWindowsMoviePlayer: Could not load mf.dll. Library not found.
+[2020.03.18-12.59.39:046][  0]LogWindowsMoviePlayer: Could not load mfplat.dll. Library not found.
+[2020.03.18-12.59.39:047][  0]LogWindowsMoviePlayer: Could not load mfplay.dll. Library not found.
+[2020.03.18-12.59.39:380][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.18-12.59.39:397][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.18-12.59.40:801][  0]SourceControl: Source control is disabled
+[2020.03.18-12.59.40:801][  0]SourceControl: Source control is disabled
+[2020.03.18-12.59.40:803][  0]SourceControl: Source control is disabled
+[2020.03.18-12.59.40:804][  0]SourceControl: Source control is disabled
+[2020.03.18-12.59.41:053][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.18-12.59.41:201][  0]LogOcInput: OculusInput pre-init called
+[2020.03.18-12.59.41:224][  0]LogPython: Python Scripts search path: ../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/Scripts
+[2020.03.18-12.59.41:224][  0]LogPython: Python Scripts search path: ../../../Engine/Plugins/UnrealEnginePython
+[2020.03.18-12.59.41:225][  0]LogPython: Python VM initialized: 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)]
+[2020.03.18-12.59.41:402][  0]LogPython: ####################----------Python Integration for Megascans Initialized----------####################
+[2020.03.18-12.59.41:402][  0]LogPython: 
+
+[2020.03.18-12.59.41:403][  0]LogPython: C:\Program Files\Epic Games\UE_4.21\Engine\Plugins\UnrealEnginePython\
+[2020.03.18-12.59.41:403][  0]LogPython: 
+
+[2020.03.18-12.59.41:481][  0]LogPython: Megascans Integration - LiveLink Initialized...
+[2020.03.18-12.59.41:481][  0]LogPython: 
+
+[2020.03.18-12.59.41:482][  0]LogPython: ue_site Python module successfully imported
+[2020.03.18-12.59.41:646][  0]LogEngine: Initializing Engine...
+[2020.03.18-12.59.41:647][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.18-12.59.41:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.03.18-12.59.41:648][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.03.18-12.59.41:649][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.03.18-12.59.41:649][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.03.18-12.59.41:967][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.18-12.59.41:998][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.18-12.59.42:022][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.18-12.59.42:121][  0]LogInit: FAudioDevice initialized.
+[2020.03.18-12.59.42:121][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.18-12.59.42:241][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB C:/Users/admin/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.03.18-12.59.42:252][  0]LogInit: Texture streaming: Enabled
+[2020.03.18-12.59.42:290][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.18-12.59.42:313][  0]LogInit: Transaction tracking system initialized
+[2020.03.18-12.59.42:363][  0]BlueprintLog: New page: Editor Load
+[2020.03.18-12.59.42:526][  0]LocalizationService: Localization service is disabled
+[2020.03.18-12.59.43:130][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.18-12.59.43:130][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.18-12.59.43:130][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.03.18-12.59.43:130][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.03.18-12.59.43:130][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.03.18-12.59.43:131][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.03.18-12.59.43:131][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.03.18-12.59.43:364][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/' took 0.03s
+[2020.03.18-12.59.43:365][  0]SourceControl: Source control is disabled
+[2020.03.18-12.59.43:365][  0]Cmd: MAP LOAD FILE="../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.18-12.59.43:366][  0]LightingResults: New page: Lighting Build
+[2020.03.18-12.59.43:371][  0]MapCheck: New page: Map Check
+[2020.03.18-12.59.43:371][  0]LightingResults: New page: Lighting Build
+[2020.03.18-12.59.49:598][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.03.18-12.59.49:697][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.18-12.59.49:731][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.18-12.59.49:731][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.235ms to complete.
+[2020.03.18-12.59.49:732][  0]LogFileHelpers: Loading map 'Minimal_Default' took 6.367
+[2020.03.18-12.59.49:900][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-12.59.49:910][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-12.59.49:919][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-12.59.49:929][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-12.59.49:943][  0]LogCollectionManager: Loaded 0 collections in 0.005157 seconds
+[2020.03.18-12.59.49:963][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Collections/' took 0.01s
+[2020.03.18-12.59.49:963][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/Developers/admin/Collections/' took 0.00s
+[2020.03.18-12.59.49:963][  0]LogFileCache: Scanning file cache for directory 'C:/Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/Collections/' took 0.00s
+[2020.03.18-12.59.49:963][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.03.18-12.59.49:974][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2679 classes and 632 folders.
+[2020.03.18-12.59.49:987][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.18-12.59.50:065][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.50:090][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.50:092][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.50:145][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.50:185][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.50:217][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.50:269][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.50:453][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.50:514][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.50:597][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.50:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.50:714][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.50:747][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.50:795][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.50:834][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.50:858][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.50:884][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.50:897][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.50:899][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.50:901][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.50:925][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.50:974][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.51:004][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.51:056][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.51:097][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.51:122][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.18-12.59.52:235][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.03.18-12.59.52:275][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.03.18-12.59.52:385][  0]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.18-12.59.52:387][  0]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.18-12.59.52:418][  0]LogSlate: Took 0.024925 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.18-12.59.52:603][  0]LogRenderer: Reallocating scene render targets to support 1208x568 Format 10 NumSamples 1 (Frame:1).
+[2020.03.18-12.59.52:794][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.18-12.59.52:794][  0]LogLoad: (Engine Initialization) Total time: 24.10 seconds
+[2020.03.18-12.59.52:794][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.18-12.59.52:869][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.18-12.59.52:957][  0]LogSlate: Took 0.013259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.18-12.59.53:494][  4]LogPython: tcp server spawned on 127.0.0.1:13428
+[2020.03.18-12.59.53:815][  9]LogAssetRegistry: Asset discovery search completed in 17.2801 seconds
+[2020.03.18-12.59.53:817][  9]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.03.18-12.59.53:817][  9]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2020.03.18-13.00.03:659][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.00.06:218][469]LogSlate: Took 0.000550 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.18-13.00.06:261][469]LogAIModule: Creating AISystem for world LC_L_Shop
+[2020.03.18-13.00.06:265][469]LogAssetEditorManager: Opening Asset editor for World /Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop
+[2020.03.18-13.00.06:290][469]Cmd: MAP LOAD FILE="../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Lewis_Clark/LC_L_Shop.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.18-13.00.06:290][469]LightingResults: New page: Lighting Build
+[2020.03.18-13.00.06:291][469]LoadErrors: New page: Loading map: LC_L_Shop.umap
+[2020.03.18-13.00.06:292][469]MapCheck: New page: Map Check
+[2020.03.18-13.00.06:292][469]LightingResults: New page: Lighting Build
+[2020.03.18-13.00.06:378][469]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.18-13.00.06:465][469]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.18-13.00.06:467][469]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.485ms to complete.
+[2020.03.18-13.00.06:467][469]LogFileHelpers: Loading map 'LC_L_Shop' took 0.178
+[2020.03.18-13.02.11:989][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.02.15:159][378]LogSlate: Took 0.011958 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.18-13.02.16:651][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.02.27:752][340]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.18-13.02.27:777][340]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.02.27:777][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.18-13.02.27:777][340]PIE: New page: PIE session: LC_L_Shop (18 Mar 2020 13:02:27)
+[2020.03.18-13.02.27:790][340]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop
+[2020.03.18-13.02.27:792][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001477s)
+[2020.03.18-13.02.27:792][340]LogAIModule: Creating AISystem for world LC_L_Shop
+[2020.03.18-13.02.27:793][340]LogPlayLevel: PIE: World Init took: (0.000806s)
+[2020.03.18-13.02.27:793][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop to /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop (0.002687s)
+[2020.03.18-13.02.27:835][340]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.18-13.02.27:861][340]LogInit: FAudioDevice initialized.
+[2020.03.18-13.02.28:056][340]LogLoad: Game class is 'Asteroids_C'
+[2020.03.18-13.02.28:058][340]LogWorld: Bringing World /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop up for play (max tick rate 0) at 2020.03.18-13.02.28
+[2020.03.18-13.02.28:058][340]LogWorld: Bringing up level for play took: 0.000585
+[2020.03.18-13.02.28:081][340]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.03.18-13.02.28:102][340]PIE: Play in editor start time for /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop 0.983
+[2020.03.18-13.02.28:102][340]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.02.28:132][341]LogBlueprintUserMessages: [Ship_C_0] 1009.0
+[2020.03.18-13.02.28:343][353]LogBlueprintUserMessages: [Ship_C_0] 1045.0
+[2020.03.18-13.02.28:543][369]LogBlueprintUserMessages: [Ship_C_0] 1093.0
+[2020.03.18-13.02.28:746][385]LogBlueprintUserMessages: [Ship_C_0] 1141.0
+[2020.03.18-13.02.28:945][401]LogBlueprintUserMessages: [Ship_C_0] 1189.0
+[2020.03.18-13.02.29:145][417]LogBlueprintUserMessages: [Ship_C_0] 1237.0
+[2020.03.18-13.02.29:222][423]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.02.29:223][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.02.29:269][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.18-13.02.29:269][423]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.02.29:303][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.02.29:334][424]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.03.18-13.02.36:023][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.02.55:562][278]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.18-13.02.58:844][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.03.06:655][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.03.47:965][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.04.36:492][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.05.06:463][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.05.06:522][427]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.18-13.05.06:548][427]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.05.06:548][427]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.18-13.05.06:549][427]PIE: New page: PIE session: LC_L_Shop (18 Mar 2020 13:05:06)
+[2020.03.18-13.05.06:549][427]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop
+[2020.03.18-13.05.06:552][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003652s)
+[2020.03.18-13.05.06:553][427]LogAIModule: Creating AISystem for world LC_L_Shop
+[2020.03.18-13.05.06:553][427]LogPlayLevel: PIE: World Init took: (0.000774s)
+[2020.03.18-13.05.06:553][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop to /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop (0.004584s)
+[2020.03.18-13.05.06:608][427]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.18-13.05.06:645][427]LogInit: FAudioDevice initialized.
+[2020.03.18-13.05.06:692][427]LogLoad: Game class is 'Asteroids_C'
+[2020.03.18-13.05.06:695][427]LogWorld: Bringing World /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop up for play (max tick rate 0) at 2020.03.18-13.05.06
+[2020.03.18-13.05.06:696][427]LogWorld: Bringing up level for play took: 0.001794
+[2020.03.18-13.05.06:719][427]PIE: Play in editor start time for /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop -0.4
+[2020.03.18-13.05.06:720][427]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.05.06:806][428]LogBlueprintUserMessages: [Ship_C_0] 1009.0
+[2020.03.18-13.05.07:012][443]LogBlueprintUserMessages: [Ship_C_0] 1054.0
+[2020.03.18-13.05.07:213][458]LogBlueprintUserMessages: [Ship_C_0] 1099.0
+[2020.03.18-13.05.07:416][473]LogBlueprintUserMessages: [Ship_C_0] 1144.0
+[2020.03.18-13.05.07:616][488]LogBlueprintUserMessages: [Ship_C_0] 1189.0
+[2020.03.18-13.05.07:819][503]LogBlueprintUserMessages: [Ship_C_0] 1234.0
+[2020.03.18-13.05.08:031][519]LogBlueprintUserMessages: [Ship_C_0] 1282.0
+[2020.03.18-13.05.08:242][535]LogBlueprintUserMessages: [Ship_C_0] 1303.0
+[2020.03.18-13.05.29:581][155]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.05.29:581][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.05.29:631][155]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.18-13.05.29:632][155]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.05.29:660][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.05.29:694][156]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.03.18-13.05.32:657][340]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.03.18-13.05.33:857][415]Cmd: DELETE
+[2020.03.18-13.05.33:857][415]Cmd: ACTOR DELETE
+[2020.03.18-13.05.33:859][415]LogEditorActor: Deleted Actor: SkyLight
+[2020.03.18-13.05.33:887][415]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2020.03.18-13.05.34:628][466]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.03.18-13.05.56:219][790]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.05.59:302][963]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.18-13.06.15:659][989]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.03.18-13.07.22:105][278]Cmd: TRANSACTION UNDO
+[2020.03.18-13.07.22:105][278]LogEditorTransaction: Undo Move Actors
+[2020.03.18-13.07.22:587][297]Cmd: TRANSACTION UNDO
+[2020.03.18-13.07.22:587][297]LogEditorTransaction: Undo Move Actors
+[2020.03.18-13.07.25:695][494]Cmd: TRANSACTION UNDO
+[2020.03.18-13.07.25:695][494]LogEditorTransaction: Undo Move Actors
+[2020.03.18-13.07.31:027][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.07.35:603][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.08.05:246][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.08.05:957][986]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.18-13.08.08:688][156]Cmd: DELETE
+[2020.03.18-13.08.08:688][156]Cmd: ACTOR DELETE
+[2020.03.18-13.08.08:694][156]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.08.08:726][156]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.03.18-13.08.09:896][233]Cmd: EDIT COPY
+[2020.03.18-13.08.10:091][243]Cmd: EDIT PASTE
+[2020.03.18-13.08.38:341][ 33]Cmd: EDIT COPY
+[2020.03.18-13.08.38:992][ 76]Cmd: EDIT PASTE
+[2020.03.18-13.08.40:268][156]Cmd: DELETE
+[2020.03.18-13.08.40:268][156]Cmd: ACTOR DELETE
+[2020.03.18-13.08.40:272][156]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.08.40:302][156]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.03.18-13.10.04:577][ 37]LogEditorViewport: Clicking Background
+[2020.03.18-13.10.10:960][471]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.10.20:878][142]Cmd: DELETE
+[2020.03.18-13.10.20:878][142]Cmd: ACTOR DELETE
+[2020.03.18-13.10.20:884][142]LogEditorActor: Deleted Actor: SkyLight
+[2020.03.18-13.10.20:911][142]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.03.18-13.10.22:170][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.10.29:043][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.10.33:966][968]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.03.18-13.10.33:994][968]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.03.18-13.10.36:080][132]Cmd: TRANSACTION UNDO
+[2020.03.18-13.10.36:080][132]LogEditorTransaction: Undo Delete selection
+[2020.03.18-13.11.09:660][197]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-13.11.23:574][ 25]Cmd: EDIT COPY
+[2020.03.18-13.11.23:843][ 40]Cmd: EDIT PASTE
+[2020.03.18-13.11.34:648][697]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2020.03.18-13.11.51:617][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.12.06:720][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.12.24:429][336]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Sparks1)
+[2020.03.18-13.12.34:999][898]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Sparks1)
+[2020.03.18-13.12.41:225][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.12.54:119][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.12.57:170][793]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/IndividualFolders/Cameron_McCabe/Ship.Ship
+[2020.03.18-13.12.58:059][793]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 117 classes and 0 folders.
+[2020.03.18-13.12.59:553][793]LogSlate: Took 0.016118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.18-13.13.02:484][920]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2020.03.18-13.13.08:475][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.13.18:626][187]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.13.26:254][767]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.13.36:918][626]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.13.54:620][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.13.54:711][ 92]BlueprintLog: New page: Compile Ship
+[2020.03.18-13.13.58:647][313]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Sparks1)
+[2020.03.18-13.13.58:877][325]Cmd: DELETE
+[2020.03.18-13.13.58:877][325]Cmd: ACTOR DELETE
+[2020.03.18-13.13.58:885][325]LogEditorActor: Deleted Actor: Emitter
+[2020.03.18-13.13.58:921][325]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2020.03.18-13.14.01:024][421]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.14.05:574][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.14.05:658][635]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.18-13.14.05:687][635]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.14.05:687][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.18-13.14.05:687][635]PIE: New page: PIE session: LC_L_Shop (18 Mar 2020 13:14:05)
+[2020.03.18-13.14.05:687][635]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop
+[2020.03.18-13.14.05:692][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005393s)
+[2020.03.18-13.14.05:693][635]LogAIModule: Creating AISystem for world LC_L_Shop
+[2020.03.18-13.14.05:693][635]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2020.03.18-13.14.05:693][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop to /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop (0.006277s)
+[2020.03.18-13.14.05:778][635]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.18-13.14.05:814][635]LogInit: FAudioDevice initialized.
+[2020.03.18-13.14.05:843][635]LogLoad: Game class is 'Asteroids_C'
+[2020.03.18-13.14.05:845][635]LogWorld: Bringing World /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop up for play (max tick rate 0) at 2020.03.18-13.14.05
+[2020.03.18-13.14.05:845][635]LogWorld: Bringing up level for play took: 0.001376
+[2020.03.18-13.14.05:861][635]PIE: Play in editor start time for /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop 0.744
+[2020.03.18-13.14.05:862][635]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.14.05:881][636]LogBlueprintUserMessages: [Ship_C_0] 1009.0
+[2020.03.18-13.14.05:881][636]LogBlueprintUserMessages: [Ship_2] 1009.0
+[2020.03.18-13.14.06:087][650]LogBlueprintUserMessages: [Ship_C_0] 1051.0
+[2020.03.18-13.14.06:087][650]LogBlueprintUserMessages: [Ship_2] 1051.0
+[2020.03.18-13.14.06:296][664]LogBlueprintUserMessages: [Ship_C_0] 1093.0
+[2020.03.18-13.14.06:296][664]LogBlueprintUserMessages: [Ship_2] 1093.0
+[2020.03.18-13.14.06:504][678]LogBlueprintUserMessages: [Ship_C_0] 1135.0
+[2020.03.18-13.14.06:504][678]LogBlueprintUserMessages: [Ship_2] 1135.0
+[2020.03.18-13.14.06:712][692]LogBlueprintUserMessages: [Ship_C_0] 1177.0
+[2020.03.18-13.14.06:712][692]LogBlueprintUserMessages: [Ship_2] 1177.0
+[2020.03.18-13.14.06:920][706]LogBlueprintUserMessages: [Ship_C_0] 1219.0
+[2020.03.18-13.14.06:920][706]LogBlueprintUserMessages: [Ship_2] 1219.0
+[2020.03.18-13.14.07:130][720]LogBlueprintUserMessages: [Ship_C_0] 1261.0
+[2020.03.18-13.14.07:130][720]LogBlueprintUserMessages: [Ship_2] 1261.0
+[2020.03.18-13.14.07:337][734]LogBlueprintUserMessages: [Ship_C_0] 1303.0
+[2020.03.18-13.14.07:337][734]LogBlueprintUserMessages: [Ship_2] 1303.0
+[2020.03.18-13.14.17:456][406]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.14.17:456][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.14.17:505][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.18-13.14.17:506][406]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.14.17:559][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.14.17:591][407]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.03.18-13.14.21:868][659]LogEditorViewport: Clicking on Actor (LMB): Ship_C (Ship)
+[2020.03.18-13.14.22:695][695]Cmd: DELETE
+[2020.03.18-13.14.22:696][695]Cmd: ACTOR DELETE
+[2020.03.18-13.14.22:701][695]LogEditorActor: Deleted Actor: Ship_C
+[2020.03.18-13.14.22:784][695]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2020.03.18-13.14.23:577][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.14.23:639][751]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.18-13.14.23:668][751]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.14.23:668][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.18-13.14.23:668][751]PIE: New page: PIE session: LC_L_Shop (18 Mar 2020 13:14:23)
+[2020.03.18-13.14.23:669][751]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop
+[2020.03.18-13.14.23:674][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004721s)
+[2020.03.18-13.14.23:674][751]LogAIModule: Creating AISystem for world LC_L_Shop
+[2020.03.18-13.14.23:674][751]LogPlayLevel: PIE: World Init took: (0.000674s)
+[2020.03.18-13.14.23:674][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop to /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop (0.005547s)
+[2020.03.18-13.14.23:719][751]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.18-13.14.23:743][751]LogInit: FAudioDevice initialized.
+[2020.03.18-13.14.23:779][751]LogLoad: Game class is 'Asteroids_C'
+[2020.03.18-13.14.23:780][751]LogWorld: Bringing World /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop up for play (max tick rate 0) at 2020.03.18-13.14.23
+[2020.03.18-13.14.23:780][751]LogWorld: Bringing up level for play took: 0.000793
+[2020.03.18-13.14.23:799][751]PIE: Play in editor start time for /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop 0.68
+[2020.03.18-13.14.23:799][751]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.14.23:830][753]LogBlueprintUserMessages: [Ship_C_0] 1012.0
+[2020.03.18-13.14.24:045][768]LogBlueprintUserMessages: [Ship_C_0] 1057.0
+[2020.03.18-13.14.24:252][782]LogBlueprintUserMessages: [Ship_C_0] 1099.0
+[2020.03.18-13.14.24:457][796]LogBlueprintUserMessages: [Ship_C_0] 1141.0
+[2020.03.18-13.14.24:667][810]LogBlueprintUserMessages: [Ship_C_0] 1183.0
+[2020.03.18-13.14.24:872][824]LogBlueprintUserMessages: [Ship_C_0] 1225.0
+[2020.03.18-13.14.25:083][838]LogBlueprintUserMessages: [Ship_C_0] 1267.0
+[2020.03.18-13.14.25:295][852]LogBlueprintUserMessages: [Ship_C_0] 1303.0
+[2020.03.18-13.14.30:442][193]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.14.30:442][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.14.30:489][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.18-13.14.30:489][193]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.14.30:524][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.14.30:560][194]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.03.18-13.14.31:551][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.14.38:217][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.14.38:296][631]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.18-13.14.38:325][631]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.14.38:325][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.18-13.14.38:325][631]PIE: New page: PIE session: LC_L_Shop (18 Mar 2020 13:14:38)
+[2020.03.18-13.14.38:325][631]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop
+[2020.03.18-13.14.38:330][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004876s)
+[2020.03.18-13.14.38:331][631]LogAIModule: Creating AISystem for world LC_L_Shop
+[2020.03.18-13.14.38:331][631]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2020.03.18-13.14.38:331][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop to /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop (0.005742s)
+[2020.03.18-13.14.38:387][631]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.18-13.14.38:422][631]LogInit: FAudioDevice initialized.
+[2020.03.18-13.14.38:452][631]LogLoad: Game class is 'Asteroids_C'
+[2020.03.18-13.14.38:454][631]LogWorld: Bringing World /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop up for play (max tick rate 0) at 2020.03.18-13.14.38
+[2020.03.18-13.14.38:454][631]LogWorld: Bringing up level for play took: 0.000865
+[2020.03.18-13.14.38:469][631]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-18.190 Y=598.177 Z=906.147] for [Ship_C]
+[2020.03.18-13.14.38:470][631]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Ship_C at Rotation: Pitch 0.000000 Yaw 26.765047 Roll 0.000000
+Translation: -18.189795 598.176697 906.146667
+Scale3D: 1.000000 1.000000 1.000000
+
+[2020.03.18-13.14.38:472][631]PIE: Play in editor start time for /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop -0.646
+[2020.03.18-13.14.38:473][631]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.14.40:639][779]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.14.40:639][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.14.40:681][779]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.18-13.14.40:681][779]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.14.40:724][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.14.40:760][780]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.03.18-13.14.48:822][280]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Sparks1)
+[2020.03.18-13.14.49:533][322]Cmd: DELETE
+[2020.03.18-13.14.49:533][322]Cmd: ACTOR DELETE
+[2020.03.18-13.14.49:538][322]LogEditorActor: Deleted Actor: Emitter
+[2020.03.18-13.14.49:570][322]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.03.18-13.14.50:428][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.14.59:260][ 53]BlueprintLog: New page: Compile Ship
+[2020.03.18-13.15.05:025][322]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.18-13.15.05:054][322]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.15.05:054][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.18-13.15.05:055][322]PIE: New page: PIE session: LC_L_Shop (18 Mar 2020 13:15:05)
+[2020.03.18-13.15.05:055][322]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop
+[2020.03.18-13.15.05:059][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004725s)
+[2020.03.18-13.15.05:060][322]LogAIModule: Creating AISystem for world LC_L_Shop
+[2020.03.18-13.15.05:061][322]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2020.03.18-13.15.05:061][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop to /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop (0.005902s)
+[2020.03.18-13.15.05:125][322]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.18-13.15.05:158][322]LogInit: FAudioDevice initialized.
+[2020.03.18-13.15.05:191][322]LogLoad: Game class is 'Asteroids_C'
+[2020.03.18-13.15.05:193][322]LogWorld: Bringing World /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop up for play (max tick rate 0) at 2020.03.18-13.15.05
+[2020.03.18-13.15.05:193][322]LogWorld: Bringing up level for play took: 0.000814
+[2020.03.18-13.15.05:208][322]PIE: Play in editor start time for /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop 0.09
+[2020.03.18-13.15.05:209][322]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.15.05:225][323]LogBlueprintUserMessages: [Ship_C_0] 1009.0
+[2020.03.18-13.15.05:437][338]LogBlueprintUserMessages: [Ship_C_0] 1054.0
+[2020.03.18-13.15.05:642][352]LogBlueprintUserMessages: [Ship_C_0] 1096.0
+[2020.03.18-13.15.05:849][366]LogBlueprintUserMessages: [Ship_C_0] 1138.0
+[2020.03.18-13.15.06:053][379]LogBlueprintUserMessages: [Ship_C_0] 1177.0
+[2020.03.18-13.15.06:266][394]LogBlueprintUserMessages: [Ship_C_0] 1222.0
+[2020.03.18-13.15.06:468][407]LogBlueprintUserMessages: [Ship_C_0] 1261.0
+[2020.03.18-13.15.06:673][420]LogBlueprintUserMessages: [Ship_C_0] 1300.0
+[2020.03.18-13.15.06:888][434]LogBlueprintUserMessages: [Ship_C_0] 1303.0
+[2020.03.18-13.15.35:264][299]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.15.35:264][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.15.35:319][299]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.18-13.15.35:319][299]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.15.35:359][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.15.35:381][300]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.03.18-13.15.39:315][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.15.49:240][265]BlueprintLog: New page: Compile Ship
+[2020.03.18-13.16.12:951][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.16.17:011][665]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Sparks)
+[2020.03.18-13.16.17:748][709]Cmd: DELETE
+[2020.03.18-13.16.17:748][709]Cmd: ACTOR DELETE
+[2020.03.18-13.16.17:756][709]LogEditorActor: Deleted Actor: Emitter
+[2020.03.18-13.16.17:793][709]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2020.03.18-13.16.22:599][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.16.28:341][198]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/IndividualFolders/Lewis_Clark/LC_PE_ThrusterGlow.LC_PE_ThrusterGlow
+[2020.03.18-13.16.28:416][198]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2020.03.18-13.16.31:986][331]LogSlate: Window 'LC_PE_ThrusterGlow' being destroyed
+[2020.03.18-13.16.32:013][331]LogCascade: Quitting Cascade. FXSystem=0x000001F9C3F25080
+[2020.03.18-13.16.34:875][421]LogAssetEditorManager: Opening Asset editor for Material /Game/IndividualFolders/Lewis_Clark/LC_M_ThrusterGlow_Mat1.LC_M_ThrusterGlow_Mat1
+[2020.03.18-13.16.34:908][421]LogMaterial: Display: Missing cached shader map for material LC_M_ThrusterGlow_Mat1, compiling. 
+[2020.03.18-13.16.35:771][421]LogMaterial: Display: Missing cached shader map for material LC_M_ThrusterGlow_Mat1, compiling. 
+[2020.03.18-13.16.35:824][421]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.18-13.16.35:824][421]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.18-13.16.35:825][421]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.18-13.16.35:825][421]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.18-13.16.35:825][421]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.18-13.16.35:825][421]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.18-13.16.35:825][421]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.18-13.16.35:825][421]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.18-13.16.35:832][421]LogMaterial: Display: Missing cached shader map for material LC_M_ThrusterGlow_Mat1, compiling. 
+[2020.03.18-13.16.35:874][421]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.03.18-13.16.35:884][421]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionClamp_0, compiling. 
+[2020.03.18-13.16.35:888][421]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2020.03.18-13.16.35:895][421]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.03.18-13.16.35:903][421]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.03.18-13.16.35:910][421]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_1, compiling. 
+[2020.03.18-13.16.35:917][421]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionDepthFade_0, compiling. 
+[2020.03.18-13.16.35:921][421]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_2, compiling. 
+[2020.03.18-13.16.35:924][421]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_3, compiling. 
+[2020.03.18-13.16.37:163][449]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.03.18-13.16.37:168][449]LogShaderCompilers: Display: Shaders left to compile 19
+[2020.03.18-13.16.37:168][449]LogShaderCompilers: Display: Shaders left to compile 18
+[2020.03.18-13.16.37:187][450]LogShaderCompilers: Display: Shaders left to compile 17
+[2020.03.18-13.16.37:187][450]LogShaderCompilers: Display: Shaders left to compile 16
+[2020.03.18-13.16.37:213][451]LogShaderCompilers: Display: Shaders left to compile 15
+[2020.03.18-13.16.37:387][458]LogShaderCompilers: Display: Shaders left to compile 14
+[2020.03.18-13.16.37:392][458]LogShaderCompilers: Display: Shaders left to compile 13
+[2020.03.18-13.16.37:414][459]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.03.18-13.16.37:414][459]LogShaderCompilers: Display: Shaders left to compile 11
+[2020.03.18-13.16.37:435][460]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.18-13.16.37:435][460]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.18-13.16.37:442][460]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.18-13.16.37:486][462]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.18-13.16.37:742][472]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.18-13.16.37:797][474]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.18-13.16.37:819][475]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.18-13.16.37:819][475]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.18-13.16.37:846][476]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.18-13.16.37:870][477]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.18-13.16.38:245][492]MaterialEditorStats: Base pass shader without light map: 84 instructions
+[2020.03.18-13.16.38:245][492]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.18-13.16.38:245][492]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.18-13.16.38:245][492]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.18-13.16.38:246][492]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.18-13.16.47:532][829]LogAssetEditorManager: Opening Asset editor for ParticleSystem /Game/IndividualFolders/Cameron_McCabe/P_Sparks1.P_Sparks1
+[2020.03.18-13.16.59:957][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.17.03:852][537]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.17.05:319][601]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.17.18:338][173]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.18-13.17.19:357][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.17.22:237][329]LogMaterial: Display: Missing cached shader map for material LC_M_ThrusterGlow_Mat1, compiling. 
+[2020.03.18-13.17.22:253][329]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.18-13.17.22:253][329]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.18-13.17.22:253][329]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.18-13.17.22:253][329]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.18-13.17.22:253][329]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.18-13.17.22:253][329]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.18-13.17.22:253][329]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.18-13.17.22:253][329]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.18-13.17.22:257][329]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.03.18-13.17.22:833][351]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.18-13.17.22:871][353]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.18-13.17.22:889][354]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.18-13.17.22:890][354]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.18-13.17.23:460][376]MaterialEditorStats: Base pass shader without light map: 84 instructions
+[2020.03.18-13.17.23:460][376]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.18-13.17.23:460][376]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.18-13.17.23:461][376]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.18-13.17.23:461][376]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.18-13.17.23:876][391]LogMaterial: Display: Missing cached shader map for material LC_M_ThrusterGlow_Mat1, compiling. 
+[2020.03.18-13.17.23:895][391]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.18-13.17.23:895][391]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.18-13.17.23:895][391]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.18-13.17.23:895][391]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.18-13.17.23:895][391]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.18-13.17.23:896][391]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.18-13.17.23:896][391]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.18-13.17.23:896][391]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.18-13.17.23:899][391]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.03.18-13.17.23:928][391]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.18-13.17.24:097][399]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.18-13.17.24:124][400]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.18-13.17.24:147][401]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.18-13.17.24:147][401]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.18-13.17.24:732][424]MaterialEditorStats: Base pass shader without light map: 84 instructions
+[2020.03.18-13.17.24:732][424]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.18-13.17.24:732][424]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.18-13.17.24:732][424]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.18-13.17.24:732][424]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.18-13.17.25:213][443]LogMaterialEditor: Saving and Compiling material LC_M_ThrusterGlow_Mat1
+[2020.03.18-13.17.25:745][443]LogMaterial: Display: Missing cached shader map for material LC_M_ThrusterGlow_Mat1, compiling. 
+[2020.03.18-13.17.25:786][443]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.18-13.17.25:786][443]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.18-13.17.25:786][443]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.18-13.17.25:786][443]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.18-13.17.25:786][443]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.18-13.17.25:786][443]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.18-13.17.25:786][443]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.18-13.17.25:786][443]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.18-13.17.25:809][443]LogMaterial: Display: Missing cached shader map for material LC_M_ThrusterGlow_Mat1, compiling. 
+[2020.03.18-13.17.25:838][443]LogMaterial: Display: Missing cached shader map for material LC_M_ThrusterGlow_Mat1, compiling. 
+[2020.03.18-13.17.25:920][443]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy LC_M_ThrusterGlow_Mat1, compiling. 
+[2020.03.18-13.17.26:310][443]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.03.18-13.17.26:310][443]LogShaderCompilers: Display: Shaders left to compile 29
+[2020.03.18-13.17.26:310][443]LogShaderCompilers: Display: Shaders left to compile 28
+[2020.03.18-13.17.26:310][443]LogShaderCompilers: Display: Shaders left to compile 27
+[2020.03.18-13.17.26:310][443]LogShaderCompilers: Display: Shaders left to compile 17
+[2020.03.18-13.17.26:310][443]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.18-13.17.26:321][443]TextureStreamingBuild: Display: Compiling optional shaders took 0.412 seconds.
+[2020.03.18-13.17.28:772][443]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/LC_M_ThrusterGlow_Mat191E632DD448F7CCE7B1F8AA1181112F2.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Lewis_Clark/LC_M_ThrusterGlow_Mat1.uasset'
+[2020.03.18-13.17.28:788][443]MaterialEditorStats: Base pass shader without light map: 84 instructions
+[2020.03.18-13.17.28:788][443]MaterialEditorStats: Base pass vertex shader: 111 instructions
+[2020.03.18-13.17.28:788][443]MaterialEditorStats: Texture samplers: 7/16
+[2020.03.18-13.17.28:788][443]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.18-13.17.28:788][443]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.18-13.17.35:433][726]LogSlate: Window 'P_Sparks1*' being destroyed
+[2020.03.18-13.17.35:459][726]LogCascade: Quitting Cascade. FXSystem=0x000001FA6DC0CEA0
+[2020.03.18-13.17.46:473][122]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/IndividualFolders/Cameron_McCabe/Ship.Ship
+[2020.03.18-13.17.54:836][661]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.18.04:931][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.18.05:024][313]BlueprintLog: New page: Compile Ship
+[2020.03.18-13.18.08:977][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.18.10:164][525]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.18-13.18.10:199][525]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.18.10:199][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.18-13.18.10:200][525]PIE: New page: PIE session: LC_L_Shop (18 Mar 2020 13:18:10)
+[2020.03.18-13.18.10:200][525]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop
+[2020.03.18-13.18.10:205][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004734s)
+[2020.03.18-13.18.10:205][525]LogAIModule: Creating AISystem for world LC_L_Shop
+[2020.03.18-13.18.10:205][525]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2020.03.18-13.18.10:205][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop to /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop (0.005647s)
+[2020.03.18-13.18.10:257][525]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.18-13.18.10:282][525]LogInit: FAudioDevice initialized.
+[2020.03.18-13.18.10:317][525]LogLoad: Game class is 'Asteroids_C'
+[2020.03.18-13.18.10:319][525]LogWorld: Bringing World /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop up for play (max tick rate 0) at 2020.03.18-13.18.10
+[2020.03.18-13.18.10:319][525]LogWorld: Bringing up level for play took: 0.000833
+[2020.03.18-13.18.10:337][525]PIE: Play in editor start time for /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop -0.781
+[2020.03.18-13.18.10:338][525]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.18.10:360][526]LogBlueprintUserMessages: [Ship_C_0] 1009.0
+[2020.03.18-13.18.10:570][541]LogBlueprintUserMessages: [Ship_C_0] 1054.0
+[2020.03.18-13.18.10:773][555]LogBlueprintUserMessages: [Ship_C_0] 1096.0
+[2020.03.18-13.18.10:977][569]LogBlueprintUserMessages: [Ship_C_0] 1138.0
+[2020.03.18-13.18.11:183][583]LogBlueprintUserMessages: [Ship_C_0] 1180.0
+[2020.03.18-13.18.11:387][597]LogBlueprintUserMessages: [Ship_C_0] 1222.0
+[2020.03.18-13.18.11:596][611]LogBlueprintUserMessages: [Ship_C_0] 1264.0
+[2020.03.18-13.18.11:805][625]LogBlueprintUserMessages: [Ship_C_0] 1303.0
+[2020.03.18-13.18.22:458][353]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.18.22:458][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.18.22:504][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.18-13.18.22:504][353]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.18.22:545][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.18.22:578][354]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.03.18-13.18.27:578][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.18.36:709][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.18.36:810][215]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.18-13.18.36:845][215]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.18.36:846][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.18-13.18.36:846][215]PIE: New page: PIE session: LC_L_Shop (18 Mar 2020 13:18:36)
+[2020.03.18-13.18.36:846][215]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop
+[2020.03.18-13.18.36:851][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004741s)
+[2020.03.18-13.18.36:851][215]LogAIModule: Creating AISystem for world LC_L_Shop
+[2020.03.18-13.18.36:851][215]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2020.03.18-13.18.36:851][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop to /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop (0.005579s)
+[2020.03.18-13.18.36:902][215]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.18-13.18.36:927][215]LogInit: FAudioDevice initialized.
+[2020.03.18-13.18.36:959][215]LogLoad: Game class is 'Asteroids_C'
+[2020.03.18-13.18.36:960][215]LogWorld: Bringing World /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop up for play (max tick rate 0) at 2020.03.18-13.18.36
+[2020.03.18-13.18.36:961][215]LogWorld: Bringing up level for play took: 0.000783
+[2020.03.18-13.18.36:976][215]PIE: Play in editor start time for /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop -0.141
+[2020.03.18-13.18.36:977][215]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.18.37:003][217]LogBlueprintUserMessages: [Ship_C_0] 1012.0
+[2020.03.18-13.18.37:212][226]LogBlueprintUserMessages: [Ship_C_0] 1039.0
+[2020.03.18-13.18.37:424][236]LogBlueprintUserMessages: [Ship_C_0] 1069.0
+[2020.03.18-13.18.37:625][252]LogBlueprintUserMessages: [Ship_C_0] 1117.0
+[2020.03.18-13.18.37:829][268]LogBlueprintUserMessages: [Ship_C_0] 1165.0
+[2020.03.18-13.18.38:033][284]LogBlueprintUserMessages: [Ship_C_0] 1213.0
+[2020.03.18-13.18.38:242][300]LogBlueprintUserMessages: [Ship_C_0] 1261.0
+[2020.03.18-13.18.38:451][316]LogBlueprintUserMessages: [Ship_C_0] 1303.0
+[2020.03.18-13.19.22:158][761]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.19.22:159][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.19.22:201][761]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.18-13.19.22:201][761]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.19.22:236][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.19.22:266][762]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.03.18-13.19.23:918][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.19.31:068][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.19.44:098][237]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.20.00:610][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.20.00:678][517]BlueprintLog: New page: Compile Ship
+[2020.03.18-13.20.02:824][618]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.18-13.20.02:852][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.20.02:853][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.18-13.20.02:853][618]PIE: New page: PIE session: LC_L_Shop (18 Mar 2020 13:20:02)
+[2020.03.18-13.20.02:853][618]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop
+[2020.03.18-13.20.02:858][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004751s)
+[2020.03.18-13.20.02:858][618]LogAIModule: Creating AISystem for world LC_L_Shop
+[2020.03.18-13.20.02:858][618]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2020.03.18-13.20.02:858][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop to /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop (0.005666s)
+[2020.03.18-13.20.02:910][618]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.18-13.20.02:936][618]LogInit: FAudioDevice initialized.
+[2020.03.18-13.20.02:970][618]LogLoad: Game class is 'Asteroids_C'
+[2020.03.18-13.20.02:972][618]LogWorld: Bringing World /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop up for play (max tick rate 0) at 2020.03.18-13.20.02
+[2020.03.18-13.20.02:972][618]LogWorld: Bringing up level for play took: 0.000820
+[2020.03.18-13.20.02:987][618]PIE: Play in editor start time for /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop -0.131
+[2020.03.18-13.20.02:988][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.20.03:012][620]LogBlueprintUserMessages: [Ship_C_0] 1012.0
+[2020.03.18-13.20.03:224][635]LogBlueprintUserMessages: [Ship_C_0] 1057.0
+[2020.03.18-13.20.03:428][649]LogBlueprintUserMessages: [Ship_C_0] 1099.0
+[2020.03.18-13.20.03:634][663]LogBlueprintUserMessages: [Ship_C_0] 1141.0
+[2020.03.18-13.20.03:840][677]LogBlueprintUserMessages: [Ship_C_0] 1183.0
+[2020.03.18-13.20.04:044][691]LogBlueprintUserMessages: [Ship_C_0] 1225.0
+[2020.03.18-13.20.04:253][705]LogBlueprintUserMessages: [Ship_C_0] 1267.0
+[2020.03.18-13.20.04:461][719]LogBlueprintUserMessages: [Ship_C_0] 1303.0
+[2020.03.18-13.20.14:628][415]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.20.14:628][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.20.14:676][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.18-13.20.14:677][415]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.20.14:720][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.20.14:764][416]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.03.18-13.20.16:315][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.20.23:339][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.20.23:428][ 75]BlueprintLog: New page: Compile Ship
+[2020.03.18-13.20.56:812][803]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/LC_L_Shop_Auto18FEEC262491591825938C589215C5757.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Lewis_Clark/LC_L_Shop_Auto1.umap'
+[2020.03.18-13.20.56:816][803]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop' took 0.411
+[2020.03.18-13.20.56:816][803]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.411
+[2020.03.18-13.20.56:818][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IndividualFolders/Cameron_McCabe/Ship] ([1] browsable assets)...
+[2020.03.18-13.20.56:836][803]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/IndividualFolders/Cameron_McCabe/Ship.Ship]
+[2020.03.18-13.20.56:836][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/IndividualFolders/Cameron_McCabe/Ship]
+[2020.03.18-13.20.57:102][803]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Ship_Auto19994930B4D0F8172DDAF69926432879D.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Cameron_McCabe/Ship_Auto1.uasset'
+[2020.03.18-13.20.57:105][803]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IndividualFolders/Cameron_McCabe/P_Sparks1] ([1] browsable assets)...
+[2020.03.18-13.20.57:111][803]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/IndividualFolders/Cameron_McCabe/P_Sparks1.P_Sparks1]
+[2020.03.18-13.20.57:111][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/IndividualFolders/Cameron_McCabe/P_Sparks1]
+[2020.03.18-13.20.57:224][803]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/P_Sparks1_Auto13CBCEAC342221860BBAE66BA87200738.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Cameron_McCabe/P_Sparks1_Auto1.uasset'
+[2020.03.18-13.20.57:240][803]LogFileHelpers: Auto-saving content packages took 0.423
+[2020.03.18-13.21.08:935][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.21.22:483][951]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.18-13.21.39:428][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.21.39:487][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.22.08:303][701]Cmd: TRANSACTION UNDO
+[2020.03.18-13.22.08:303][701]LogEditorTransaction: Undo Scale Actors
+[2020.03.18-13.22.14:087][ 33]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush)
+[2020.03.18-13.22.17:993][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.22.18:579][305]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-13.22.44:398][837]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.23.00:502][843]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.18-13.23.02:331][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.23.02:410][957]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.18-13.23.02:436][957]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.23.02:436][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.18-13.23.02:436][957]PIE: New page: PIE session: LC_L_Shop (18 Mar 2020 13:23:02)
+[2020.03.18-13.23.02:436][957]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop
+[2020.03.18-13.23.02:442][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005735s)
+[2020.03.18-13.23.02:442][957]LogAIModule: Creating AISystem for world LC_L_Shop
+[2020.03.18-13.23.02:443][957]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2020.03.18-13.23.02:443][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop to /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop (0.006676s)
+[2020.03.18-13.23.02:502][957]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.18-13.23.02:548][957]LogInit: FAudioDevice initialized.
+[2020.03.18-13.23.02:583][957]LogLoad: Game class is 'Asteroids_C'
+[2020.03.18-13.23.02:585][957]LogWorld: Bringing World /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop up for play (max tick rate 0) at 2020.03.18-13.23.02
+[2020.03.18-13.23.02:585][957]LogWorld: Bringing up level for play took: 0.000893
+[2020.03.18-13.23.02:604][957]PIE: Play in editor start time for /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop -0.514
+[2020.03.18-13.23.02:604][957]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.23.02:621][958]LogBlueprintUserMessages: [Ship_C_0] 1009.0
+[2020.03.18-13.23.02:834][967]LogBlueprintUserMessages: [Ship_C_0] 1036.0
+[2020.03.18-13.23.03:043][978]LogBlueprintUserMessages: [Ship_C_0] 1069.0
+[2020.03.18-13.23.03:245][992]LogBlueprintUserMessages: [Ship_C_0] 1111.0
+[2020.03.18-13.23.03:447][  6]LogBlueprintUserMessages: [Ship_C_0] 1153.0
+[2020.03.18-13.23.03:646][ 20]LogBlueprintUserMessages: [Ship_C_0] 1195.0
+[2020.03.18-13.23.03:851][ 34]LogBlueprintUserMessages: [Ship_C_0] 1237.0
+[2020.03.18-13.23.04:053][ 48]LogBlueprintUserMessages: [Ship_C_0] 1279.0
+[2020.03.18-13.23.04:254][ 62]LogBlueprintUserMessages: [Ship_C_0] 1303.0
+[2020.03.18-13.23.05:696][160]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.23.05:696][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.23.05:749][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.18-13.23.05:749][160]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.23.05:791][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.23.05:827][161]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.03.18-13.23.09:090][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.23.14:959][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.23.15:038][694]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.18-13.23.15:063][694]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.23.15:063][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.18-13.23.15:063][694]PIE: New page: PIE session: LC_L_Shop (18 Mar 2020 13:23:15)
+[2020.03.18-13.23.15:063][694]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop
+[2020.03.18-13.23.15:069][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005444s)
+[2020.03.18-13.23.15:069][694]LogAIModule: Creating AISystem for world LC_L_Shop
+[2020.03.18-13.23.15:070][694]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2020.03.18-13.23.15:070][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop to /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop (0.006371s)
+[2020.03.18-13.23.15:131][694]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.18-13.23.15:156][694]LogInit: FAudioDevice initialized.
+[2020.03.18-13.23.15:193][694]LogLoad: Game class is 'Asteroids_C'
+[2020.03.18-13.23.15:195][694]LogWorld: Bringing World /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop up for play (max tick rate 0) at 2020.03.18-13.23.15
+[2020.03.18-13.23.15:195][694]LogWorld: Bringing up level for play took: 0.001215
+[2020.03.18-13.23.15:214][694]PIE: Play in editor start time for /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop 0.097
+[2020.03.18-13.23.15:215][694]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.23.15:251][695]LogBlueprintUserMessages: [Ship_C_0] 1009.0
+[2020.03.18-13.23.15:454][710]LogBlueprintUserMessages: [Ship_C_0] 1054.0
+[2020.03.18-13.23.15:656][724]LogBlueprintUserMessages: [Ship_C_0] 1096.0
+[2020.03.18-13.23.15:860][738]LogBlueprintUserMessages: [Ship_C_0] 1138.0
+[2020.03.18-13.23.16:065][752]LogBlueprintUserMessages: [Ship_C_0] 1180.0
+[2020.03.18-13.23.16:271][766]LogBlueprintUserMessages: [Ship_C_0] 1222.0
+[2020.03.18-13.23.16:477][780]LogBlueprintUserMessages: [Ship_C_0] 1264.0
+[2020.03.18-13.23.16:551][785]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.23.16:551][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.23.16:597][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.18-13.23.16:598][785]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.23.16:653][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.23.16:688][786]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.03.18-13.23.19:138][921]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.23.22:722][136]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.23.36:249][973]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-13.23.37:875][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.23.46:883][622]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.18-13.23.46:908][622]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.23.46:908][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.18-13.23.46:908][622]PIE: New page: PIE session: LC_L_Shop (18 Mar 2020 13:23:46)
+[2020.03.18-13.23.46:908][622]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop
+[2020.03.18-13.23.46:914][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005570s)
+[2020.03.18-13.23.46:915][622]LogAIModule: Creating AISystem for world LC_L_Shop
+[2020.03.18-13.23.46:915][622]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2020.03.18-13.23.46:915][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop to /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop (0.006498s)
+[2020.03.18-13.23.46:958][622]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.18-13.23.46:982][622]LogInit: FAudioDevice initialized.
+[2020.03.18-13.23.47:016][622]LogLoad: Game class is 'Asteroids_C'
+[2020.03.18-13.23.47:017][622]LogWorld: Bringing World /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop up for play (max tick rate 0) at 2020.03.18-13.23.47
+[2020.03.18-13.23.47:018][622]LogWorld: Bringing up level for play took: 0.000822
+[2020.03.18-13.23.47:033][622]PIE: Play in editor start time for /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop -0.085
+[2020.03.18-13.23.47:033][622]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.23.47:079][626]LogBlueprintUserMessages: [Ship_C_0] 1018.0
+[2020.03.18-13.23.47:281][640]LogBlueprintUserMessages: [Ship_C_0] 1060.0
+[2020.03.18-13.23.47:484][654]LogBlueprintUserMessages: [Ship_C_0] 1102.0
+[2020.03.18-13.23.47:686][668]LogBlueprintUserMessages: [Ship_C_0] 1144.0
+[2020.03.18-13.23.47:890][682]LogBlueprintUserMessages: [Ship_C_0] 1186.0
+[2020.03.18-13.23.48:092][696]LogBlueprintUserMessages: [Ship_C_0] 1228.0
+[2020.03.18-13.23.48:251][707]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.23.48:251][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.23.48:299][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.18-13.23.48:300][707]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-13.23.48:335][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-13.23.48:370][708]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.03.18-13.23.51:931][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.23.53:584][  6]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.23.57:872][260]Cmd: DELETE
+[2020.03.18-13.23.57:872][260]Cmd: ACTOR DELETE
+[2020.03.18-13.23.57:884][260]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.23.57:923][260]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2020.03.18-13.24.00:689][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.24.29:872][185]Cmd: DELETE
+[2020.03.18-13.24.29:872][185]Cmd: ACTOR DELETE
+[2020.03.18-13.24.29:880][185]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.24.29:917][185]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2020.03.18-13.24.36:261][571]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.24.43:511][ 33]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.18-13.24.46:770][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.24.52:647][608]LogEditorViewport: Clicking on Actor (LMB): Brush (Sphere Brush)
+[2020.03.18-13.24.53:061][631]Cmd: DELETE
+[2020.03.18-13.24.53:061][631]Cmd: ACTOR DELETE
+[2020.03.18-13.24.53:073][631]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.24.53:117][631]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2020.03.18-13.24.54:661][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.24.55:242][765]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.18-13.24.56:978][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.25.25:516][623]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.25.34:108][158]Cmd: POLY SELECT REVERSE
+[2020.03.18-13.25.39:396][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.25.49:276][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.25.57:647][611]Cmd: POLY SELECT REVERSE
+[2020.03.18-13.26.36:962][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.27.13:000][653]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.27.15:781][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.27.16:608][834]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.18-13.27.53:101][455]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.31.03:482][160]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.31.04:023][160]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/LC_L_Shop_Auto28978148A49782E6064AF60ADFF1B2E58.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Lewis_Clark/LC_L_Shop_Auto2.umap'
+[2020.03.18-13.31.04:028][160]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop' took 0.501
+[2020.03.18-13.31.04:028][160]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.501
+[2020.03.18-13.31.55:269][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.31.56:152][409]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.18-13.33.38:228][634]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.34.50:022][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.35.13:362][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.37.25:482][447]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.38.46:268][637]LogEditorViewport: Clicking on Actor (LMB): Ship_C (Ship)
+[2020.03.18-13.38.47:040][669]Cmd: DELETE
+[2020.03.18-13.38.47:040][669]Cmd: ACTOR DELETE
+[2020.03.18-13.38.47:056][669]LogEditorActor: Deleted Actor: Ship_C
+[2020.03.18-13.38.47:118][669]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2020.03.18-13.39.20:713][619]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.41.04:935][828]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/LC_L_Shop_Auto3BDC20A234BDD03E5DC65B29D3BDD9C0C.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Lewis_Clark/LC_L_Shop_Auto3.umap'
+[2020.03.18-13.41.04:939][828]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop' took 0.571
+[2020.03.18-13.41.04:939][828]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.571
+[2020.03.18-13.41.35:626][362]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.41.44:626][899]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.41.54:101][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.42.08:795][313]LogMaterial: Display: Missing cached shader map for material Default_Material, compiling. 
+[2020.03.18-13.42.08:901][313]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.03.18-13.42.08:901][313]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.03.18-13.42.08:901][313]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.18-13.42.08:901][313]LogStaticMesh: Building static mesh SM_BOSS_SH_FACE_LP...
+[2020.03.18-13.42.08:971][313]LogStaticMesh: Built static mesh [0.09s] /Game/Art_Assets/SM_BOSS_SH_FACE_LP.SM_BOSS_SH_FACE_LP
+[2020.03.18-13.42.09:006][313]LogActorFactory: Actor Factory created SM_BOSS_SH_FACE_LP
+[2020.03.18-13.42.09:493][342]LogActorFactory: Actor Factory created SM_BOSS_SH_FACE_LP
+[2020.03.18-13.42.16:574][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.42.21:845][893]LogStaticMesh: Building static mesh SM_MidShipHP_DB__1_...
+[2020.03.18-13.42.22:334][893]LogStaticMesh: Built static mesh [0.49s] /Game/IndividualFolders/Dan_Jones/SM_MidShipHP_DB__1_.SM_MidShipHP_DB__1_
+[2020.03.18-13.42.22:422][893]LogMaterial: Display: Missing cached shader map for material lambert7, compiling. 
+[2020.03.18-13.42.22:439][893]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.03.18-13.42.22:439][893]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.03.18-13.42.22:440][893]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.18-13.42.22:440][893]LogMaterial: Display: Missing cached shader map for material lambert6, compiling. 
+[2020.03.18-13.42.22:458][893]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.03.18-13.42.22:458][893]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.03.18-13.42.22:458][893]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.18-13.42.22:458][893]LogMaterial: Display: Missing cached shader map for material lambert5, compiling. 
+[2020.03.18-13.42.22:477][893]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2020.03.18-13.42.22:500][893]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.03.18-13.42.22:500][893]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.03.18-13.42.22:500][893]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.03.18-13.42.22:533][893]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2020.03.18-13.42.22:564][893]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.03.18-13.42.22:620][893]LogActorFactory: Actor Factory created SM_MidShipHP_DB__1_
+[2020.03.18-13.42.22:912][909]LogShaderCompilers: Display: Shaders left to compile 90
+[2020.03.18-13.42.23:284][932]LogShaderCompilers: Display: Shaders left to compile 80
+[2020.03.18-13.42.23:644][950]LogActorFactory: Actor Factory created SM_MidShipHP_DB__1_
+[2020.03.18-13.42.24:823][  4]LogShaderCompilers: Display: Shaders left to compile 70
+[2020.03.18-13.42.25:009][ 15]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.03.18-13.42.25:149][ 23]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.03.18-13.42.25:288][ 31]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.03.18-13.42.26:476][102]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.03.18-13.42.26:905][127]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.03.18-13.42.26:962][130]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.18-13.42.31:342][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MidShipHP_DB__1_)
+[2020.03.18-13.42.32:207][423]Cmd: DELETE
+[2020.03.18-13.42.32:208][423]Cmd: ACTOR DELETE
+[2020.03.18-13.42.32:230][423]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.18-13.42.32:277][423]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2020.03.18-13.42.40:740][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_BOSS_SH_FACE_LP)
+[2020.03.18-13.43.07:312][519]Cmd: DELETE
+[2020.03.18-13.43.07:312][519]Cmd: ACTOR DELETE
+[2020.03.18-13.43.07:336][519]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.18-13.43.07:368][519]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2020.03.18-13.43.09:147][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.43.24:525][323]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2020.03.18-13.43.25:713][398]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2020.03.18-13.43.48:886][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2020.03.18-13.43.49:713][833]Cmd: DELETE
+[2020.03.18-13.43.49:713][833]Cmd: ACTOR DELETE
+[2020.03.18-13.43.49:735][833]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.18-13.43.49:770][833]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2020.03.18-13.43.51:766][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.44.27:533][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.44.30:388][156]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2020.03.18-13.44.31:292][212]LogActorFactory: Actor Factory created Wall_Door_400x300
+[2020.03.18-13.44.39:352][687]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_Door_400x300)
+[2020.03.18-13.44.39:418][687]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-13.44.56:937][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2020.03.18-13.45.00:646][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x300)
+[2020.03.18-13.45.01:291][928]Cmd: DELETE
+[2020.03.18-13.45.01:292][928]Cmd: ACTOR DELETE
+[2020.03.18-13.45.01:313][928]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.18-13.45.01:345][928]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2020.03.18-13.45.59:902][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.46.08:472][178]Cmd: EDIT COPY
+[2020.03.18-13.46.09:066][210]Cmd: EDIT PASTE
+[2020.03.18-13.46.17:152][601]Cmd: EDIT COPY
+[2020.03.18-13.46.17:333][610]Cmd: EDIT PASTE
+[2020.03.18-13.46.20:439][744]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.18-13.46.21:246][778]Cmd: EDIT COPY
+[2020.03.18-13.46.21:441][786]Cmd: EDIT PASTE
+[2020.03.18-13.46.23:849][881]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.18-13.46.27:338][  4]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2020.03.18-13.46.30:007][115]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-13.46.32:537][186]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.03.18-13.46.36:299][324]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2020.03.18-13.46.38:539][411]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.18-13.46.42:107][543]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2020.03.18-13.46.47:841][758]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.03.18-13.47.00:410][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.47.03:642][315]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.18-13.47.50:417][939]Cmd: EDIT COPY
+[2020.03.18-13.47.50:623][946]Cmd: EDIT PASTE
+[2020.03.18-13.48.09:802][764]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-13.48.20:938][171]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-13.48.32:417][581]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-13.48.37:824][802]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-13.48.39:697][865]Cmd: EDIT COPY
+[2020.03.18-13.48.39:869][871]Cmd: EDIT PASTE
+[2020.03.18-13.49.17:170][ 88]Cmd: EDIT COPY
+[2020.03.18-13.49.17:444][ 98]Cmd: EDIT PASTE
+[2020.03.18-13.49.52:126][956]Cmd: DELETE
+[2020.03.18-13.49.52:126][956]Cmd: ACTOR DELETE
+[2020.03.18-13.49.52:166][956]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.49.52:211][956]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2020.03.18-13.50.10:366][216]Cmd: TRANSACTION UNDO
+[2020.03.18-13.50.10:367][216]LogEditorTransaction: Undo Delete Actors
+[2020.03.18-13.50.10:709][225]Cmd: TRANSACTION UNDO
+[2020.03.18-13.50.10:709][225]LogEditorTransaction: Undo Select Brush Surface
+[2020.03.18-13.50.11:124][240]Cmd: TRANSACTION UNDO
+[2020.03.18-13.50.11:125][240]LogEditorTransaction: Undo Scale Actors
+[2020.03.18-13.50.46:100][809]Cmd: EDIT COPY
+[2020.03.18-13.50.46:336][818]Cmd: EDIT PASTE
+[2020.03.18-13.50.52:437][106]Cmd: EDIT COPY
+[2020.03.18-13.50.52:676][115]Cmd: EDIT PASTE
+[2020.03.18-13.50.54:379][191]Cmd: EDIT COPY
+[2020.03.18-13.50.54:565][200]Cmd: EDIT PASTE
+[2020.03.18-13.50.56:670][296]Cmd: EDIT COPY
+[2020.03.18-13.50.56:879][306]Cmd: EDIT PASTE
+[2020.03.18-13.51.04:795][668]Cmd: EDIT COPY
+[2020.03.18-13.51.04:991][676]Cmd: EDIT PASTE
+[2020.03.18-13.51.09:508][885]Cmd: EDIT COPY
+[2020.03.18-13.51.09:717][895]Cmd: EDIT PASTE
+[2020.03.18-13.51.19:184][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.51.31:447][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.51.35:088][ 54]Cmd: DELETE
+[2020.03.18-13.51.35:088][ 54]Cmd: ACTOR DELETE
+[2020.03.18-13.51.35:158][ 54]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.35:159][ 54]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.35:160][ 54]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.35:161][ 54]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.35:161][ 54]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.35:162][ 54]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.35:163][ 54]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.35:164][ 54]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.35:165][ 54]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.35:166][ 54]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.35:167][ 54]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.35:168][ 54]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.35:169][ 54]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.35:170][ 54]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.35:170][ 54]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.35:237][ 54]LogEditorActor: Deleted 15 Actors (0.148 secs)
+[2020.03.18-13.51.37:569][151]Cmd: TRANSACTION UNDO
+[2020.03.18-13.51.37:569][151]LogEditorTransaction: Undo Delete Actors
+[2020.03.18-13.51.44:051][398]Cmd: DELETE
+[2020.03.18-13.51.44:051][398]Cmd: ACTOR DELETE
+[2020.03.18-13.51.44:088][398]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.44:089][398]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.44:089][398]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.44:090][398]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.44:090][398]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.44:091][398]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.44:091][398]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.44:092][398]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.44:092][398]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.44:093][398]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.44:093][398]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.44:094][398]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.44:094][398]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.44:095][398]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.44:095][398]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.44:144][398]LogEditorActor: Deleted 15 Actors (0.093 secs)
+[2020.03.18-13.51.46:276][490]Cmd: TRANSACTION UNDO
+[2020.03.18-13.51.46:276][490]LogEditorTransaction: Undo Delete Actors
+[2020.03.18-13.51.49:208][604]Cmd: DELETE
+[2020.03.18-13.51.49:208][604]Cmd: ACTOR DELETE
+[2020.03.18-13.51.49:233][604]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.49:235][604]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.49:235][604]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.49:236][604]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.49:236][604]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.49:237][604]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.49:237][604]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.49:238][604]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.49:238][604]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.49:239][604]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.49:239][604]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.49:240][604]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.49:240][604]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.49:241][604]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.49:241][604]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.49:281][604]LogEditorActor: Deleted 15 Actors (0.073 secs)
+[2020.03.18-13.51.51:207][687]Cmd: TRANSACTION UNDO
+[2020.03.18-13.51.51:207][687]LogEditorTransaction: Undo Delete Actors
+[2020.03.18-13.51.53:607][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.51.56:563][899]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.56:564][899]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.56:565][899]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.56:566][899]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.56:566][899]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.56:567][899]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.56:568][899]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.56:569][899]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.56:569][899]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.56:570][899]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.56:571][899]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.56:571][899]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.56:572][899]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.56:573][899]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.51.56:621][899]LogEditorActor: Deleted 14 Actors (0.109 secs)
+[2020.03.18-13.52.21:834][925]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/LC_L_Shop_Auto4A7696B2E476B813C3CF8AA8FBDD5B32C.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Lewis_Clark/LC_L_Shop_Auto4.umap'
+[2020.03.18-13.52.21:838][925]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop' took 0.594
+[2020.03.18-13.52.21:838][925]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.594
+[2020.03.18-13.54.13:391][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.54.25:987][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.54.26:982][921]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.18-13.55.38:806][415]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.55.47:216][718]LogActorFactory: Actor Factory created Wall_Door_400x400
+[2020.03.18-13.55.53:282][959]LogActorFactory: Actor Factory created Wall_Door_400x400
+[2020.03.18-13.55.54:265][995]Cmd: DELETE
+[2020.03.18-13.55.54:265][995]Cmd: ACTOR DELETE
+[2020.03.18-13.55.54:297][995]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.03.18-13.55.54:340][995]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2020.03.18-13.56.34:573][507]Cmd: EDIT COPY
+[2020.03.18-13.56.34:792][516]Cmd: EDIT PASTE
+[2020.03.18-13.56.59:753][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.57.05:156][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-13.57.06:976][893]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.57.06:977][893]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.57.06:977][893]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-13.57.07:049][893]LogEditorActor: Deleted 3 Actors (0.117 secs)
+[2020.03.18-13.57.23:354][284]Cmd: EDIT COPY
+[2020.03.18-13.57.23:583][291]Cmd: EDIT PASTE
+[2020.03.18-13.57.26:386][399]Cmd: EDIT PASTE
+[2020.03.18-13.57.28:708][487]Cmd: EDIT PASTE
+[2020.03.18-13.58.03:315][661]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush3)
+[2020.03.18-13.59.47:584][855]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-14.00.07:298][585]Cmd: DELETE
+[2020.03.18-14.00.07:298][585]Cmd: ACTOR DELETE
+[2020.03.18-14.00.07:334][585]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-14.00.07:389][585]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2020.03.18-14.00.32:269][603]Cmd: TRANSACTION UNDO
+[2020.03.18-14.00.32:269][603]LogEditorTransaction: Undo Scale Actors
+[2020.03.18-14.03.07:308][ 36]Cmd: EDIT COPY
+[2020.03.18-14.03.07:478][ 43]Cmd: EDIT PASTE
+[2020.03.18-14.05.09:158][622]Cmd: DELETE
+[2020.03.18-14.05.09:158][622]Cmd: ACTOR DELETE
+[2020.03.18-14.05.09:188][622]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-14.05.09:239][622]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2020.03.18-14.05.10:121][657]Cmd: DELETE
+[2020.03.18-14.05.10:121][657]Cmd: ACTOR DELETE
+[2020.03.18-14.05.10:131][657]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-14.05.10:174][657]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2020.03.18-14.05.13:094][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.05.31:826][407]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-14.07.17:899][201]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-14.07.39:851][410]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/LC_L_Shop_Auto5B4B7920B463452FEF12F29895E654DFA.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Lewis_Clark/LC_L_Shop_Auto5.umap'
+[2020.03.18-14.07.39:856][410]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop' took 0.465
+[2020.03.18-14.07.39:856][410]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.465
+[2020.03.18-14.07.44:996][608]Cmd: EDIT COPY
+[2020.03.18-14.07.45:236][618]Cmd: EDIT PASTE
+[2020.03.18-14.08.10:796][681]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush12)
+[2020.03.18-14.08.20:217][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-14.08.26:222][218]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-14.08.28:698][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.08.33:970][512]Cmd: EDIT COPY
+[2020.03.18-14.08.34:278][524]Cmd: EDIT PASTE
+[2020.03.18-14.08.46:531][  8]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.03.18-14.08.49:948][136]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2020.03.18-14.08.56:014][373]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2020.03.18-14.09.01:608][612]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.18-14.09.09:753][963]Cmd: EDIT COPY
+[2020.03.18-14.09.10:013][972]Cmd: EDIT PASTE
+[2020.03.18-14.09.23:247][403]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-14.09.57:936][616]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-14.10.05:376][918]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.18-14.10.16:704][337]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-14.10.26:536][515]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-14.10.43:361][821]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-14.10.50:319][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-14.11.02:814][116]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-14.11.50:277][800]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-14.11.59:795][106]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-14.12.01:771][151]Cmd: EDIT COPY
+[2020.03.18-14.12.02:047][158]Cmd: EDIT PASTE
+[2020.03.18-14.12.23:503][940]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-14.12.34:878][374]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-14.12.45:932][801]Cmd: TRANSACTION UNDO
+[2020.03.18-14.12.45:933][801]LogEditorTransaction: Undo Move Actors
+[2020.03.18-14.13.20:124][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.13.51:398][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.13.59:363][933]Cmd: TRANSACTION UNDO
+[2020.03.18-14.13.59:363][933]LogEditorTransaction: Undo Select Brush Surface
+[2020.03.18-14.13.59:814][947]Cmd: TRANSACTION UNDO
+[2020.03.18-14.13.59:815][947]LogEditorTransaction: Undo Scale Actors
+[2020.03.18-14.14.01:649][ 23]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-14.17.40:780][210]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/LC_L_Shop_Auto654BB50984BC8281B8D214A973ED30CE2.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Lewis_Clark/LC_L_Shop_Auto6.umap'
+[2020.03.18-14.17.40:784][210]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop' took 0.541
+[2020.03.18-14.17.40:784][210]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.541
+[2020.03.18-14.21.22:132][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.22.36:546][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.22.58:256][524]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.23.29:791][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.23.30:592][626]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.18-14.23.35:202][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.23.53:995][552]Cmd: TRANSACTION UNDO
+[2020.03.18-14.23.53:996][552]LogEditorTransaction: Undo Scale Actors
+[2020.03.18-14.23.54:152][554]Cmd: TRANSACTION UNDO
+[2020.03.18-14.23.54:152][554]LogEditorTransaction: Undo Scale Actors
+[2020.03.18-14.24.10:793][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.24.33:925][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.25.25:166][649]Cmd: EDIT COPY
+[2020.03.18-14.25.25:379][656]Cmd: EDIT PASTE
+[2020.03.18-14.25.31:732][877]Cmd: EDIT COPY
+[2020.03.18-14.25.31:911][884]Cmd: EDIT PASTE
+[2020.03.18-14.25.41:745][192]Cmd: EDIT COPY
+[2020.03.18-14.25.41:959][200]Cmd: EDIT PASTE
+[2020.03.18-14.26.38:906][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.26.40:063][385]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.18-14.26.49:684][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.27.05:501][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.27.19:386][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.27.45:325][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.27.58:677][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.28.05:171][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.28.16:008][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.28.27:365][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.28.50:102][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.29.01:368][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.29.02:959][148]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.18-14.29.08:084][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.29.22:373][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.29.34:737][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.29.55:497][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.30.12:681][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.31.24:942][983]Cmd: EDIT COPY
+[2020.03.18-14.31.25:158][992]Cmd: EDIT PASTE
+[2020.03.18-14.31.34:400][169]Cmd: EDIT COPY
+[2020.03.18-14.31.34:629][177]Cmd: EDIT PASTE
+[2020.03.18-14.31.38:288][330]Cmd: EDIT COPY
+[2020.03.18-14.31.38:506][337]Cmd: EDIT PASTE
+[2020.03.18-14.31.41:770][471]Cmd: EDIT COPY
+[2020.03.18-14.31.42:022][480]Cmd: EDIT PASTE
+[2020.03.18-14.31.52:107][855]Cmd: EDIT PASTE
+[2020.03.18-14.32.11:556][648]Cmd: EDIT COPY
+[2020.03.18-14.32.11:804][653]Cmd: EDIT PASTE
+[2020.03.18-14.33.39:782][962]Cmd: TRANSACTION UNDO
+[2020.03.18-14.33.39:783][962]LogEditorTransaction: Undo Select Brush Surface
+[2020.03.18-14.34.18:689][699]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-14.34.19:267][699]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/LC_L_Shop_Auto72218A352452C582B7266BDB9970DFDFD.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Lewis_Clark/LC_L_Shop_Auto7.umap'
+[2020.03.18-14.34.19:275][699]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop' took 0.547
+[2020.03.18-14.34.19:275][699]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.547
+[2020.03.18-14.34.22:737][825]Cmd: EDIT COPY
+[2020.03.18-14.34.22:904][831]Cmd: EDIT PASTE
+[2020.03.18-14.34.59:843][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.35.08:494][569]Cmd: TRANSACTION UNDO
+[2020.03.18-14.35.08:494][569]LogEditorTransaction: Undo Select Brush Surface
+[2020.03.18-14.35.09:267][594]Cmd: TRANSACTION UNDO
+[2020.03.18-14.35.09:267][594]LogEditorTransaction: Undo Set Scale
+[2020.03.18-14.35.10:673][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.35.31:080][505]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.35.41:972][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.36.40:311][795]Cmd: EDIT COPY
+[2020.03.18-14.36.40:542][805]Cmd: EDIT PASTE
+[2020.03.18-14.37.35:843][673]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-14.39.30:149][446]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-14.40.02:947][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.40.56:445][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.40.57:250][634]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.18-14.40.58:633][687]Cmd: DELETE
+[2020.03.18-14.40.58:633][687]Cmd: ACTOR DELETE
+[2020.03.18-14.40.58:673][687]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-14.40.58:778][687]LogEditorActor: Deleted 1 Actors (0.145 secs)
+[2020.03.18-14.41.00:087][737]Cmd: EDIT COPY
+[2020.03.18-14.41.00:586][757]Cmd: EDIT PASTE
+[2020.03.18-14.41.25:389][705]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-14.41.34:026][ 28]Cmd: EDIT COPY
+[2020.03.18-14.41.34:218][ 36]Cmd: EDIT PASTE
+[2020.03.18-14.42.58:153][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.43.21:226][744]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.03.18-14.43.35:129][279]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2020.03.18-14.43.45:740][670]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.18-14.44.07:640][492]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2020.03.18-14.44.45:594][386]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-14.44.46:224][386]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/LC_L_Shop_Auto83094C90840494123D212A7847B31394D.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Lewis_Clark/LC_L_Shop_Auto8.umap'
+[2020.03.18-14.44.46:228][386]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop' took 0.544
+[2020.03.18-14.44.46:228][386]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.544
+[2020.03.18-14.44.55:679][739]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-14.45.01:721][953]Cmd: TRANSACTION UNDO
+[2020.03.18-14.45.01:721][953]LogEditorTransaction: Undo Clicking on Actors
+[2020.03.18-14.45.12:364][341]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-14.45.36:460][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.46.21:101][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.46.24:844][753]Cmd: EDCALLBACK SURFPROPS
+[2020.03.18-14.46.25:921][783]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-14.46.46:553][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.46.47:690][448]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.18-14.47.02:937][924]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.47.41:315][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.48.05:299][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.49.00:974][941]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.49.23:755][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.49.39:493][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.51.02:733][275]Cmd: EDIT COPY
+[2020.03.18-14.51.03:021][286]Cmd: EDIT PASTE
+[2020.03.18-14.51.12:255][356]Cmd: EDIT COPY
+[2020.03.18-14.51.12:516][365]Cmd: EDIT PASTE
+[2020.03.18-14.51.21:075][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.51.33:022][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.51.34:932][196]Cmd: EDIT COPY
+[2020.03.18-14.51.35:247][209]Cmd: EDIT PASTE
+[2020.03.18-14.51.46:641][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.52.01:575][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.52.16:871][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.52.30:395][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.52.45:502][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.52.58:320][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.53.05:731][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.53.14:449][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.53.51:324][365]Cmd: DELETE
+[2020.03.18-14.53.51:324][365]Cmd: ACTOR DELETE
+[2020.03.18-14.53.51:356][365]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-14.53.51:460][365]LogEditorActor: Deleted 1 Actors (0.137 secs)
+[2020.03.18-14.53.52:038][386]Cmd: DELETE
+[2020.03.18-14.53.52:038][386]Cmd: ACTOR DELETE
+[2020.03.18-14.53.52:062][386]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-14.53.52:145][386]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2020.03.18-14.53.52:969][417]Cmd: DELETE
+[2020.03.18-14.53.52:969][417]Cmd: ACTOR DELETE
+[2020.03.18-14.53.53:004][417]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-14.53.53:117][417]LogEditorActor: Deleted 1 Actors (0.148 secs)
+[2020.03.18-14.53.54:633][475]Cmd: EDIT COPY
+[2020.03.18-14.53.54:843][481]Cmd: EDIT PASTE
+[2020.03.18-14.53.59:154][644]Cmd: EDIT COPY
+[2020.03.18-14.53.59:378][651]Cmd: EDIT PASTE
+[2020.03.18-14.54.20:344][416]Cmd: EDIT COPY
+[2020.03.18-14.54.20:513][420]Cmd: EDIT PASTE
+[2020.03.18-14.54.27:962][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.54.42:404][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.54.48:681][483]Cmd: DELETE
+[2020.03.18-14.54.48:681][483]Cmd: ACTOR DELETE
+[2020.03.18-14.54.48:716][483]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-14.54.48:717][483]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-14.54.48:718][483]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-14.54.48:819][483]LogEditorActor: Deleted 3 Actors (0.138 secs)
+[2020.03.18-14.54.58:940][860]Cmd: EDIT COPY
+[2020.03.18-14.54.59:203][866]Cmd: EDIT PASTE
+[2020.03.18-14.55.16:518][470]Cmd: EDIT COPY
+[2020.03.18-14.55.16:748][474]Cmd: EDIT PASTE
+[2020.03.18-14.55.20:299][601]Cmd: EDIT COPY
+[2020.03.18-14.55.20:564][609]Cmd: EDIT PASTE
+[2020.03.18-14.55.35:828][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-14.55.45:032][561]Cmd: DELETE
+[2020.03.18-14.55.45:032][561]Cmd: ACTOR DELETE
+[2020.03.18-14.55.45:075][561]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-14.55.45:075][561]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-14.55.45:076][561]LogEditorActor: Deleted Actor: Brush
+[2020.03.18-14.55.45:162][561]LogEditorActor: Deleted 3 Actors (0.130 secs)
+[2020.03.18-14.55.55:441][906]Cmd: EDIT COPY
+[2020.03.18-14.55.55:718][915]Cmd: EDIT PASTE
+[2020.03.18-14.55.59:186][ 42]Cmd: EDIT COPY
+[2020.03.18-14.55.59:422][ 49]Cmd: EDIT PASTE
+[2020.03.18-14.56.03:813][214]Cmd: EDIT COPY
+[2020.03.18-14.56.04:011][222]Cmd: EDIT PASTE
+[2020.03.18-14.56.43:654][622]Cmd: EDIT COPY
+[2020.03.18-14.56.43:922][633]Cmd: EDIT PASTE
+[2020.03.18-14.57.45:552][686]Cmd: EDIT COPY
+[2020.03.18-14.57.45:798][694]Cmd: EDIT PASTE
+[2020.03.18-14.58.43:744][579]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-14.58.48:496][735]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2020.03.18-14.58.56:392][ 36]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.18-14.59.00:806][195]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-14.59.02:701][261]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2020.03.18-14.59.03:569][292]Cmd: EDIT COPY
+[2020.03.18-14.59.03:791][299]Cmd: EDIT PASTE
+[2020.03.18-14.59.14:051][653]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2020.03.18-14.59.14:843][679]Cmd: EDIT COPY
+[2020.03.18-14.59.15:016][683]Cmd: EDIT PASTE
+[2020.03.18-14.59.19:750][850]Cmd: EDIT COPY
+[2020.03.18-14.59.19:951][858]Cmd: EDIT PASTE
+[2020.03.18-14.59.49:766][393]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight6)
+[2020.03.18-15.00.04:449][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-15.00.04:535][882]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.18-15.00.04:561][882]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-15.00.04:561][882]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.18-15.00.04:561][882]PIE: New page: PIE session: LC_L_Shop (18 Mar 2020 15:00:04)
+[2020.03.18-15.00.04:561][882]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop
+[2020.03.18-15.00.04:606][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044805s)
+[2020.03.18-15.00.04:607][882]LogAIModule: Creating AISystem for world LC_L_Shop
+[2020.03.18-15.00.04:607][882]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2020.03.18-15.00.04:607][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop to /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop (0.045868s)
+[2020.03.18-15.00.04:686][882]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.18-15.00.04:717][882]LogInit: FAudioDevice initialized.
+[2020.03.18-15.00.04:751][882]LogLoad: Game class is 'Asteroids_C'
+[2020.03.18-15.00.04:754][882]LogWorld: Bringing World /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop.LC_L_Shop up for play (max tick rate 0) at 2020.03.18-15.00.04
+[2020.03.18-15.00.04:754][882]LogWorld: Bringing up level for play took: 0.001935
+[2020.03.18-15.00.04:770][882]PIE: Play in editor start time for /Game/IndividualFolders/Lewis_Clark/UEDPIE_0_LC_L_Shop -0.348
+[2020.03.18-15.00.04:770][882]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-15.00.04:787][883]LogBlueprintUserMessages: [Ship_C_0] 1009.0
+[2020.03.18-15.00.04:998][892]LogBlueprintUserMessages: [Ship_C_0] 1036.0
+[2020.03.18-15.00.05:201][902]LogBlueprintUserMessages: [Ship_C_0] 1066.0
+[2020.03.18-15.00.05:406][912]LogBlueprintUserMessages: [Ship_C_0] 1096.0
+[2020.03.18-15.00.05:610][922]LogBlueprintUserMessages: [Ship_C_0] 1126.0
+[2020.03.18-15.00.05:816][932]LogBlueprintUserMessages: [Ship_C_0] 1156.0
+[2020.03.18-15.00.06:024][942]LogBlueprintUserMessages: [Ship_C_0] 1186.0
+[2020.03.18-15.00.06:217][951]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-15.00.06:217][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-15.00.06:278][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.18-15.00.06:278][951]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop' with GeneratedClass '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop_C' with ClassGeneratedBy '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop.LC_L_Shop:PersistentLevel.LC_L_Shop'
+[2020.03.18-15.00.06:324][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.18-15.00.06:380][952]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.03.18-15.00.34:493][932]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-15.00.35:103][932]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/LC_L_Shop_Auto9CB9C46A9498502FF423ED194D69D73F4.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Lewis_Clark/LC_L_Shop_Auto9.umap'
+[2020.03.18-15.00.35:107][932]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop' took 0.580
+[2020.03.18-15.00.35:107][932]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.580
+[2020.03.18-15.02.14:793][360]LogRenderer: Reallocating scene render targets to support 1788x952 Format 10 NumSamples 1 (Frame:282618).
+[2020.03.18-15.02.14:944][361]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:282620).
+[2020.03.18-15.02.14:945][361]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-15.02.16:353][380]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-15.03.21:045][239]Cmd: SELECT NONE
+[2020.03.18-15.03.22:750][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-15.03.25:844][344]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-15.03.26:638][365]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-15.03.27:216][382]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-15.03.27:917][403]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-15.03.28:443][418]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-15.03.31:192][490]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-15.03.31:978][513]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-15.03.33:631][557]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-15.04.12:645][788]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-15.04.36:896][636]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-15.04.44:051][846]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-15.04.51:389][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-15.04.52:451][995]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.18-15.05.35:289][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-15.05.53:324][872]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-15.05.54:998][926]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-15.06.06:589][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-15.06.08:679][369]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-15.06.20:867][712]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-15.06.21:841][725]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.03.18-15.10.35:843][ 11]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/LC_L_Shop_Auto08035ED4D432E949EA7BED6B14994CBFD.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Lewis_Clark/LC_L_Shop_Auto0.umap'
+[2020.03.18-15.10.35:847][ 11]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IndividualFolders/Lewis_Clark/LC_L_Shop' took 0.635
+[2020.03.18-15.10.35:847][ 11]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.635
+[2020.03.18-15.11.14:319][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.18-15.11.18:257][253]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-15.11.20:177][308]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.18-15.11.20:779][308]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/LC_L_ShopB3902DC24AB67FE22E06BB8743477779.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Lewis_Clark/LC_L_Shop.umap'
+[2020.03.18-15.11.20:836][308]LogFileHelpers: Saving map 'LC_L_Shop' took 0.655
+[2020.03.18-15.11.21:145][308]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/Ship1B84D78B4C9BBCFC92D734B5E4DCDC19.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Cameron_McCabe/Ship.uasset'
+[2020.03.18-15.11.21:256][308]LogSavePackage: Moving '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Saved/P_Sparks172D4E27F4D3CE08FD7E94EB8DC8B8198.tmp' to '../../../../../../Users/admin/Documents/GitHub/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Cameron_McCabe/P_Sparks1.uasset'
+[2020.03.18-15.11.23:337][360]LogSlate: FSceneViewport::OnFocusLost() reason 2
