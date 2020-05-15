@@ -1,0 +1,1325 @@
+﻿Log file open, 05/11/20 13:14:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Asteroids_2020
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.410024
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.104s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.007s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.11-12.14.54:797][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.11-12.14.54:797][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.11-12.14.54:797][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Engine.ini]
+[2020.05.11-12.14.54:797][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.11-12.14.54:797][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.05.11-12.14.54:797][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.05.11-12.14.54:797][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Engine.ini]
+[2020.05.11-12.14.54:797][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Engine.ini]
+[2020.05.11-12.14.54:797][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.11-12.14.54:797][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.11-12.14.54:797][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.11-12.14.54:797][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.11-12.14.54:797][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.11-12.14.54:797][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.11-12.14.54:797][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.11-12.14.54:797][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.11-12.14.54:797][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.11-12.14.54:797][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.11-12.14.54:797][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.11-12.14.54:797][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.11-12.14.54:797][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.11-12.14.54:797][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Engine.ini]
+[2020.05.11-12.14.54:797][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.11-12.14.54:797][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.11-12.14.54:797][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.11-12.14.54:798][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.11-12.14.54:798][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.11-12.14.54:798][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.11-12.14.54:798][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.05.11-12.14.54:798][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.11-12.14.54:798][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.11-12.14.54:798][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.05.11-12.14.54:798][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.11-12.14.54:798][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.11-12.14.54:798][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.11-12.14.54:798][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.11-12.14.54:798][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Engine.ini]
+[2020.05.11-12.14.54:798][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Engine.ini]
+[2020.05.11-12.14.54:800][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-12.14.54:800][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.11-12.14.54:801][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.11-12.14.54:801][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.11-12.14.54:801][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.11-12.14.54:808][  0]LogHAL: Display: Platform has ~ 8 GB [8423395328 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.05.11-12.14.54:808][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.11-12.14.54:808][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.11-12.14.54:808][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Scalability.ini]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.11-12.14.54:809][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.11-12.14.54:809][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Config/Windows/Engine.ini]
+[2020.05.11-12.14.54:809][  0]LogInit: Computer: LAPTOP-1BKD0DTU
+[2020.05.11-12.14.54:809][  0]LogInit: User: capit
+[2020.05.11-12.14.54:809][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.05.11-12.14.54:809][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.11-12.14.54:809][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2020.05.11-12.14.54:809][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.11-12.14.54:809][  0]LogMemory: Process Physical Memory: 106.29 MB used, 106.29 MB peak
+[2020.05.11-12.14.54:809][  0]LogMemory: Process Virtual Memory: 88.74 MB used, 88.74 MB peak
+[2020.05.11-12.14.54:809][  0]LogMemory: Physical Memory: 6680.46 MB used,  1352.72 MB free, 8033.18 MB total
+[2020.05.11-12.14.54:809][  0]LogMemory: Virtual Memory: 4650.65 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2020.05.11-12.14.54:840][  0]LogInit: Using OS detected language (en-GB).
+[2020.05.11-12.14.54:840][  0]LogInit: Using OS detected locale (en-GB).
+[2020.05.11-12.14.54:840][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.05.11-12.14.55:147][  0]LogStreaming: Display: Took  0.308s to InitEngineTextLocalization.
+[2020.05.11-12.14.55:147][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.11-12.14.55:188][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.11-12.14.55:188][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.11-12.14.55:380][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.11-12.14.55:380][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.11-12.14.55:471][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2020.05.11-12.14.55:471][  0]LogD3D11RHI:       3962/0/4016 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.11-12.14.55:483][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.05.11-12.14.55:483][  0]LogD3D11RHI:       128/0/4016 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.11-12.14.55:485][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.11-12.14.55:485][  0]LogD3D11RHI:       0/0/4016 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.11-12.14.55:485][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.11-12.14.55:499][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.11-12.14.55:499][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.11-12.14.55:499][  0]LogWindows: EnumDisplayDevices:
+[2020.05.11-12.14.55:499][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.05.11-12.14.55:499][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.11-12.14.55:500][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.05.11-12.14.55:500][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2020.05.11-12.14.55:500][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2020.05.11-12.14.55:500][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2020.05.11-12.14.55:500][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1650' (P:0 D:0)
+[2020.05.11-12.14.55:501][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.05.11-12.14.55:501][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2020.05.11-12.14.55:501][  0]LogD3D11RHI:   Driver Version: 441.45 (internal:26.21.14.4145, unified:441.45)
+[2020.05.11-12.14.55:501][  0]LogD3D11RHI:      Driver Date: 11-26-2019
+[2020.05.11-12.14.55:501][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2020.05.11-12.14.55:546][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.11-12.14.55:563][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.05.11-12.14.55:912][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.05.11-12.14.55:925][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.05.11-12.14.55:937][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.05.11-12.14.55:950][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.05.11-12.14.55:963][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.05.11-12.14.55:974][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.05.11-12.14.55:985][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.05.11-12.14.55:996][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.05.11-12.14.56:001][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.05.11-12.14.56:062][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.11-12.14.56:062][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.11-12.14.56:062][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.11-12.14.56:062][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.11-12.14.56:062][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.11-12.14.56:062][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.11-12.14.56:062][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.11-12.14.56:062][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.11-12.14.56:062][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.11-12.14.56:062][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.11-12.14.56:062][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.11-12.14.56:062][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.11-12.14.56:062][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.11-12.14.56:062][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.11-12.14.56:062][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.11-12.14.56:062][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.11-12.14.56:062][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.11-12.14.56:062][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.05.11-12.14.56:064][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.05.11-12.14.56:120][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.05.11-12.14.56:120][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.05.11-12.14.56:140][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.05.11-12.14.56:140][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.05.11-12.14.56:150][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.05.11-12.14.56:160][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.05.11-12.14.56:171][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.05.11-12.14.56:183][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.05.11-12.14.56:223][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.05.11-12.14.56:223][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.05.11-12.14.56:223][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.11-12.14.56:270][  0]LogShaderCompilers: Guid format shader working directory is -45 characters bigger than the processId version (../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Intermediate/Shaders/WorkingDirectory/2376/).
+[2020.05.11-12.14.56:270][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/capit/AppData/Local/Temp/UnrealShaderWorkingDir/AFFD62544F6BD2A6332BC595120B3CF0/'.
+[2020.05.11-12.14.56:272][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.11-12.14.56:272][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.11-12.14.56:272][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.11-12.14.56:728][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.11-12.14.56:778][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/capit/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.05.11-12.14.56:779][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/capit/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.05.11-12.14.56:779][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.11-12.14.56:779][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.11-12.14.56:779][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.11-12.14.56:779][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.11-12.14.56:791][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.11-12.14.56:791][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.11-12.14.56:791][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.11-12.14.56:804][  0]LogDerivedDataCache: Using Local data cache path C:/Users/capit/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.11-12.14.56:804][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.11-12.14.56:804][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.11-12.14.56:822][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.11-12.14.56:823][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.11-12.14.56:824][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.11-12.14.56:900][  0]LogAssetRegistry: FAssetRegistry took 0.0318 seconds to start up
+[2020.05.11-12.14.57:203][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.11-12.14.57:330][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.05.11-12.14.57:333][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.05.11-12.14.57:333][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.11-12.14.57:333][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.11-12.14.57:333][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.05.11-12.14.57:345][  0]LogNetVersion: Asteroids_2020 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1957075933)
+[2020.05.11-12.14.57:787][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.078366 seconds
+[2020.05.11-12.14.57:791][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.05.11-12.14.57:791][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2020.05.11-12.14.57:791][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.11-12.14.58:542][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.11-12.14.58:556][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.11-12.14.59:230][  0]SourceControl: Source control is disabled
+[2020.05.11-12.14.59:230][  0]SourceControl: Source control is disabled
+[2020.05.11-12.14.59:231][  0]SourceControl: Source control is disabled
+[2020.05.11-12.14.59:232][  0]SourceControl: Source control is disabled
+[2020.05.11-12.14.59:383][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.11-12.14.59:464][  0]LogOcInput: OculusInput pre-init called
+[2020.05.11-12.14.59:597][  0]LogEngine: Initializing Engine...
+[2020.05.11-12.14.59:597][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.11-12.14.59:599][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.05.11-12.14.59:599][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.05.11-12.14.59:599][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.05.11-12.14.59:599][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.05.11-12.14.59:814][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.11-12.14.59:828][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.11-12.14.59:859][  0]LogInit: XAudio2 using 'Headphone (3- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.11-12.14.59:920][  0]LogInit: FAudioDevice initialized.
+[2020.05.11-12.14.59:920][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.11-12.15.02:302][  0]LogDerivedDataCache: Saved boot cache 2.38s 71MB C:/Users/capit/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.05.11-12.15.02:436][  0]LogInit: Texture streaming: Enabled
+[2020.05.11-12.15.02:454][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.11-12.15.02:510][  0]LogInit: Transaction tracking system initialized
+[2020.05.11-12.15.02:526][  0]BlueprintLog: New page: Editor Load
+[2020.05.11-12.15.02:583][  0]LocalizationService: Localization service is disabled
+[2020.05.11-12.15.03:081][  0]LogFileCache: Scanning file cache for directory 'C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Content/' took 0.02s
+[2020.05.11-12.15.03:081][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.11-12.15.03:081][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.11-12.15.03:083][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.05.11-12.15.03:083][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.05.11-12.15.03:083][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.05.11-12.15.03:084][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.05.11-12.15.03:084][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.05.11-12.15.03:218][  0]SourceControl: Source control is disabled
+[2020.05.11-12.15.03:218][  0]Cmd: MAP LOAD FILE="../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.11-12.15.03:218][  0]LightingResults: New page: Lighting Build
+[2020.05.11-12.15.03:220][  0]MapCheck: New page: Map Check
+[2020.05.11-12.15.03:220][  0]LightingResults: New page: Lighting Build
+[2020.05.11-12.15.07:311][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.05.11-12.15.07:751][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.11-12.15.07:787][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.11-12.15.07:787][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.132ms to complete.
+[2020.05.11-12.15.07:787][  0]LogFileHelpers: Loading map 'Minimal_Default' took 4.569
+[2020.05.11-12.15.07:948][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-12.15.07:956][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-12.15.07:963][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-12.15.07:970][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-12.15.07:998][  0]LogCollectionManager: Loaded 0 collections in 0.001903 seconds
+[2020.05.11-12.15.08:059][  0]LogFileCache: Scanning file cache for directory 'C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Collections/' took 0.01s
+[2020.05.11-12.15.08:059][  0]LogFileCache: Scanning file cache for directory 'C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Content/Developers/capit/Collections/' took 0.01s
+[2020.05.11-12.15.08:059][  0]LogFileCache: Scanning file cache for directory 'C:/Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Content/Collections/' took 0.01s
+[2020.05.11-12.15.08:059][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.05.11-12.15.08:074][  0]LogContentBrowser: Native class hierarchy populated in 0.0137 seconds. Added 2660 classes and 625 folders.
+[2020.05.11-12.15.08:100][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.11-12.15.08:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:111][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:112][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:113][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:114][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:116][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:118][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:119][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:120][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:121][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:123][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:127][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:129][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:130][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:131][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:132][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:133][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:134][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:136][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:139][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:141][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:142][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:143][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.11-12.15.08:215][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.11-12.15.08:225][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.05.11-12.15.08:284][  0]LogSlate: Took 0.000648 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.11-12.15.08:287][  0]LogSlate: Took 0.000593 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.11-12.15.08:293][  0]LogSlate: Took 0.000397 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.11-12.15.08:397][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2020.05.11-12.15.08:593][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.11-12.15.08:593][  0]LogLoad: (Engine Initialization) Total time: 15.80 seconds
+[2020.05.11-12.15.08:593][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.11-12.15.08:670][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.11-12.15.09:226][  6]LogAssetRegistry: Asset discovery search completed in 12.3488 seconds
+[2020.05.11-12.15.09:227][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.05.11-12.15.09:227][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2020.05.11-12.15.09:647][ 38]LogSlate: Took 0.000803 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.11-12.15.11:727][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-12.15.12:295][259]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.11-12.15.20:049][ 57]LogAIModule: Creating AISystem for world Boss_Intro
+[2020.05.11-12.15.20:058][ 57]LogAssetEditorManager: Opening Asset editor for World /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro
+[2020.05.11-12.15.20:082][ 57]LightingResults: New page: Lighting Build
+[2020.05.11-12.15.20:083][ 57]LoadErrors: New page: Loading map: Boss_Intro.umap
+[2020.05.11-12.15.20:087][ 57]MapCheck: New page: Map Check
+[2020.05.11-12.15.20:087][ 57]LightingResults: New page: Lighting Build
+[2020.05.11-12.15.20:119][ 57]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.11-12.15.20:177][ 57]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.11-12.15.20:177][ 57]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2020.05.11-12.15.20:177][ 57]LogFileHelpers: Loading map 'Boss_Intro' took 0.097
+[2020.05.11-12.15.21:489][184]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.11-12.15.21:510][184]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.15.21:511][184]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.11-12.15.21:512][184]PIE: New page: PIE session: Boss_Intro (11 May 2020 14:15:21)
+[2020.05.11-12.15.21:529][184]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro
+[2020.05.11-12.15.21:533][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003902s)
+[2020.05.11-12.15.21:533][184]LogAIModule: Creating AISystem for world Boss_Intro
+[2020.05.11-12.15.21:534][184]LogPlayLevel: PIE: World Init took: (0.000511s)
+[2020.05.11-12.15.21:534][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro to /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro.Boss_Intro (0.004876s)
+[2020.05.11-12.15.21:565][184]LogInit: XAudio2 using 'Headphone (3- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.11-12.15.21:590][184]LogInit: FAudioDevice initialized.
+[2020.05.11-12.15.21:697][184]LogLoad: Game class is 'Asteroids_C'
+[2020.05.11-12.15.21:705][184]LogWorld: Bringing World /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro.Boss_Intro up for play (max tick rate 0) at 2020.05.11-13.15.21
+[2020.05.11-12.15.21:706][184]LogLinker: Warning: Can't find file '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/JB_Master_Boss_Sequence'
+[2020.05.11-12.15.21:707][184]LogLinker: Warning: Can't find file '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/JB_Master_Boss_Sequence'
+[2020.05.11-12.15.21:707][184]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/JB_Master_Boss_Sequence.JB_Master_Boss_Sequence'
+[2020.05.11-12.15.21:733][184]LogWorld: Bringing up level for play took: 0.029009
+[2020.05.11-12.15.21:758][184]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.05.11-12.15.21:770][184]PIE: Play in editor start time for /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro -0.563
+[2020.05.11-12.15.21:770][184]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.16.00:530][401]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.16.00:536][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-12.16.00:570][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.11-12.16.00:570][401]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.16.00:594][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-12.16.00:634][404]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.05.11-12.16.01:498][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-12.16.28:808][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-12.16.34:129][136]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.11-12.16.38:106][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-12.17.14:301][494]LogActorFactory: Actor Factory created DB_Mesh_AlphaShip
+[2020.05.11-12.17.15:863][633]LogActorFactory: Actor Factory created DB_Mesh_AlphaShip
+[2020.05.11-12.17.16:288][677]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.11-12.17.19:367][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DB_Mesh_AlphaShip)
+[2020.05.11-12.17.21:008][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DB_Mesh_AlphaShip2)
+[2020.05.11-12.17.21:814][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-12.17.30:835][904]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence.JB_Warp_Sequence
+[2020.05.11-12.17.38:642][638]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.11-12.17.38:673][638]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.17.38:673][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.11-12.17.38:673][638]PIE: New page: PIE session: Boss_Intro (11 May 2020 14:17:38)
+[2020.05.11-12.17.38:674][638]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro
+[2020.05.11-12.17.38:676][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003310s)
+[2020.05.11-12.17.38:676][638]LogAIModule: Creating AISystem for world Boss_Intro
+[2020.05.11-12.17.38:676][638]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2020.05.11-12.17.38:676][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro to /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro.Boss_Intro (0.004194s)
+[2020.05.11-12.17.38:713][638]LogInit: XAudio2 using 'Headphone (3- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.11-12.17.38:726][638]LogInit: FAudioDevice initialized.
+[2020.05.11-12.17.38:762][638]LogLoad: Game class is 'Asteroids_C'
+[2020.05.11-12.17.38:764][638]LogWorld: Bringing World /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro.Boss_Intro up for play (max tick rate 0) at 2020.05.11-13.17.38
+[2020.05.11-12.17.38:765][638]LogWorld: Bringing up level for play took: 0.001660
+[2020.05.11-12.17.38:779][638]PIE: Play in editor start time for /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro 0.447
+[2020.05.11-12.17.38:780][638]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.17.40:417][818]Cmd: SELECT NONE
+[2020.05.11-12.17.41:725][964]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.17.41:726][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-12.17.41:764][964]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.11-12.17.41:765][964]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.17.41:809][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-12.17.41:827][965]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.05.11-12.17.52:173][171]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.11-12.17.52:192][171]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.17.52:193][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.11-12.17.52:193][171]PIE: New page: PIE session: Boss_Intro (11 May 2020 14:17:52)
+[2020.05.11-12.17.52:193][171]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro
+[2020.05.11-12.17.52:196][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002619s)
+[2020.05.11-12.17.52:196][171]LogAIModule: Creating AISystem for world Boss_Intro
+[2020.05.11-12.17.52:196][171]LogPlayLevel: PIE: World Init took: (0.000510s)
+[2020.05.11-12.17.52:196][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro to /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro.Boss_Intro (0.003222s)
+[2020.05.11-12.17.52:228][171]LogInit: XAudio2 using 'Headphone (3- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.11-12.17.52:239][171]LogInit: FAudioDevice initialized.
+[2020.05.11-12.17.52:270][171]LogLoad: Game class is 'Asteroids_C'
+[2020.05.11-12.17.52:271][171]LogWorld: Bringing World /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro.Boss_Intro up for play (max tick rate 0) at 2020.05.11-13.17.52
+[2020.05.11-12.17.52:272][171]LogWorld: Bringing up level for play took: 0.001166
+[2020.05.11-12.17.52:285][171]PIE: Play in editor start time for /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro -0.047
+[2020.05.11-12.17.52:286][171]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.17.57:912][834]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.17.57:913][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-12.17.57:946][834]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.11-12.17.57:947][834]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.17.57:973][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-12.17.58:016][838]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.05.11-12.18.03:379][464]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-12.18.06:527][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DB_Mesh_AlphaShip2)
+[2020.05.11-12.18.07:859][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DB_Mesh_AlphaShip)
+[2020.05.11-12.18.08:801][ 65]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.05.11-12.18.10:142][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DB_Mesh_AlphaShip2)
+[2020.05.11-12.18.11:142][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-12.18.15:838][772]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.05.11-12.18.16:800][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-12.18.24:536][707]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Cinematic_Ship3BCF8987441CC356395EA299C65D63A2.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Joshua_Burt/JB_Cinematics/Cinematic_Ship.uasset'
+[2020.05.11-12.19.22:242][209]Cmd: TRANSACTION UNDO
+[2020.05.11-12.19.22:242][209]LogEditorTransaction: Undo Select Actors/Components
+[2020.05.11-12.19.25:204][521]Cmd: TRANSACTION UNDO
+[2020.05.11-12.19.25:204][521]LogEditorTransaction: Undo Animatable Property Changed
+[2020.05.11-12.19.26:325][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DB_Mesh_AlphaShip2)
+[2020.05.11-12.19.26:999][696]Cmd: DELETE
+[2020.05.11-12.19.26:999][696]Cmd: ACTOR DELETE
+[2020.05.11-12.19.27:007][696]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.11-12.19.27:028][696]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2020.05.11-12.19.28:721][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-12.19.28:797][903]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.11-12.19.28:817][903]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.19.28:817][903]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.05.11-12.19.28:819][903]LogPlayLevel: [PlayLevel] Compiling Boss_Intro before play...
+[2020.05.11-12.19.28:908][903]LogPlayLevel: PlayLevel: Blueprint regeneration took 91 ms (1 blueprints)
+[2020.05.11-12.19.28:908][903]PIE: New page: PIE session: Boss_Intro (11 May 2020 14:19:28)
+[2020.05.11-12.19.28:908][903]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro
+[2020.05.11-12.19.28:911][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002468s)
+[2020.05.11-12.19.28:911][903]LogAIModule: Creating AISystem for world Boss_Intro
+[2020.05.11-12.19.28:911][903]LogPlayLevel: PIE: World Init took: (0.000444s)
+[2020.05.11-12.19.28:911][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro to /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro.Boss_Intro (0.003005s)
+[2020.05.11-12.19.28:941][903]LogInit: XAudio2 using 'Headphone (3- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.11-12.19.28:954][903]LogInit: FAudioDevice initialized.
+[2020.05.11-12.19.28:989][903]LogLoad: Game class is 'Asteroids_C'
+[2020.05.11-12.19.28:992][903]LogWorld: Bringing World /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro.Boss_Intro up for play (max tick rate 0) at 2020.05.11-13.19.28
+[2020.05.11-12.19.28:994][903]LogWorld: Bringing up level for play took: 0.003552
+[2020.05.11-12.19.29:013][903]PIE: Play in editor start time for /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro 0.679
+[2020.05.11-12.19.29:013][903]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.19.37:272][885]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.19.37:273][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-12.19.37:313][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.11-12.19.37:314][885]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.19.37:339][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-12.19.37:378][888]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.05.11-12.19.44:072][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-12.19.45:540][850]LogActorFactory: Actor Factory created Cinematic_Ship
+[2020.05.11-12.19.46:395][950]LogActorFactory: Actor Factory created Cinematic_Ship
+[2020.05.11-12.19.47:422][ 50]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-12.19.52:778][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DB_Mesh_AlphaShip)
+[2020.05.11-12.19.54:344][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cinematic_Ship)
+[2020.05.11-12.19.55:793][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-12.20.04:559][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DB_Mesh_AlphaShip)
+[2020.05.11-12.20.05:817][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cinematic_Ship)
+[2020.05.11-12.20.07:540][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-12.20.09:023][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DB_Mesh_AlphaShip)
+[2020.05.11-12.20.09:969][511]Cmd: DELETE
+[2020.05.11-12.20.09:969][511]Cmd: ACTOR DELETE
+[2020.05.11-12.20.09:989][511]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.11-12.20.15:891][511]LogSlate: Window 'Message' being destroyed
+[2020.05.11-12.20.15:918][511]LogEditorActor: Deleted 0 Actors (5.949 secs)
+[2020.05.11-12.20.17:703][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cinematic_Ship)
+[2020.05.11-12.20.18:869][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-12.20.52:264][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cinematic_Ship)
+[2020.05.11-12.20.53:730][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cinematic_Ship)
+[2020.05.11-12.20.54:063][489]Cmd: DELETE
+[2020.05.11-12.20.54:063][489]Cmd: ACTOR DELETE
+[2020.05.11-12.20.54:064][489]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.05.11-12.20.54:086][489]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2020.05.11-12.20.54:930][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-12.20.55:005][598]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.11-12.20.55:023][598]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.20.55:024][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.11-12.20.55:024][598]PIE: New page: PIE session: Boss_Intro (11 May 2020 14:20:55)
+[2020.05.11-12.20.55:024][598]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro
+[2020.05.11-12.20.55:027][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002604s)
+[2020.05.11-12.20.55:027][598]LogAIModule: Creating AISystem for world Boss_Intro
+[2020.05.11-12.20.55:027][598]LogPlayLevel: PIE: World Init took: (0.000486s)
+[2020.05.11-12.20.55:027][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro to /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro.Boss_Intro (0.003186s)
+[2020.05.11-12.20.55:057][598]LogInit: XAudio2 using 'Headphone (3- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.11-12.20.55:068][598]LogInit: FAudioDevice initialized.
+[2020.05.11-12.20.55:103][598]LogLoad: Game class is 'Asteroids_C'
+[2020.05.11-12.20.55:106][598]LogWorld: Bringing World /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro.Boss_Intro up for play (max tick rate 0) at 2020.05.11-13.20.55
+[2020.05.11-12.20.55:108][598]LogWorld: Bringing up level for play took: 0.002491
+[2020.05.11-12.20.55:125][598]PIE: Play in editor start time for /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro 0.792
+[2020.05.11-12.20.55:126][598]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.20.58:289][973]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.20.58:289][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-12.20.58:330][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.11-12.20.58:331][973]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.20.58:371][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-12.20.58:389][974]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.05.11-12.20.59:526][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-12.21.15:152][933]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.11-12.21.15:171][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.21.15:171][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.11-12.21.15:172][933]PIE: New page: PIE session: Boss_Intro (11 May 2020 14:21:15)
+[2020.05.11-12.21.15:172][933]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro
+[2020.05.11-12.21.15:174][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002620s)
+[2020.05.11-12.21.15:175][933]LogAIModule: Creating AISystem for world Boss_Intro
+[2020.05.11-12.21.15:176][933]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2020.05.11-12.21.15:176][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro to /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro.Boss_Intro (0.003865s)
+[2020.05.11-12.21.15:206][933]LogInit: XAudio2 using 'Headphone (3- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.11-12.21.15:217][933]LogInit: FAudioDevice initialized.
+[2020.05.11-12.21.15:247][933]LogLoad: Game class is 'Asteroids_C'
+[2020.05.11-12.21.15:248][933]LogWorld: Bringing World /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro.Boss_Intro up for play (max tick rate 0) at 2020.05.11-13.21.15
+[2020.05.11-12.21.15:249][933]LogWorld: Bringing up level for play took: 0.001249
+[2020.05.11-12.21.15:274][933]PIE: Play in editor start time for /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro 0.942
+[2020.05.11-12.21.15:275][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.21.21:074][620]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.21.21:075][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-12.21.21:112][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.11-12.21.21:113][620]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-12.21.21:151][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-12.21.21:185][622]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.05.11-12.21.22:271][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-12.21.23:678][900]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro_Cutscene.Boss_Intro_Cutscene
+[2020.05.11-12.21.41:313][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-12.26.25:883][128]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Boss_Intro_Auto138B3C58C408A123A1F8E45939850F47A.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro_Auto1.umap'
+[2020.05.11-12.26.25:887][128]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro' took 0.193
+[2020.05.11-12.26.25:887][128]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.193
+[2020.05.11-12.26.25:889][128]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence] ([1] browsable assets)...
+[2020.05.11-12.26.25:889][128]OBJ SavePackage: Finished generating thumbnails for package [/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence]
+[2020.05.11-12.26.25:929][128]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/JB_Warp_Sequence_Auto1DC35305444359615B44E4B91EA077931.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Auto1.uasset'
+[2020.05.11-12.26.25:930][128]LogFileHelpers: Auto-saving content packages took 0.041
+[2020.05.11-12.41.02:679][752]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{1ab8ec71-7886-4c4a-a896-892e75717945} was removed. Shutting down audio device.
+[2020.05.11-12.41.02:988][752]LogInit: XAudio2 using 'Speaker (3- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.11-12.51.53:580][692]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.05.11-13.16.58:353][199]LogInit: XAudio2 using 'Headphone (3- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.11-13.16.59:680][203]LogInit: XAudio2 using 'Headphone (3- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.11-13.17.51:803][879]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Menu_Enter_Multitrack_mixdown...
+[2020.05.11-13.17.51:838][879]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 138240 while cooking SoundWave /Game/IndividualFolders/Joshua_Burt/Sound_Effects/Menu_SFX/Menu_Enter_Multitrack_mixdown.Menu_Enter_Multitrack_mixdown.
+[2020.05.11-13.17.51:848][879]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Menu_Sound_2...
+[2020.05.11-13.17.51:856][879]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 64512 while cooking SoundWave /Game/IndividualFolders/Joshua_Burt/Sound_Effects/Menu_SFX/Menu_Sound_2.Menu_Sound_2.
+[2020.05.11-13.17.51:856][879]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Menu_Sounds_01...
+[2020.05.11-13.17.51:865][879]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 64512 while cooking SoundWave /Game/IndividualFolders/Joshua_Burt/Sound_Effects/Menu_SFX/Menu_Sounds_01.Menu_Sounds_01.
+[2020.05.11-13.26.07:600][146]LogMetaData: Removing '/Game/IndividualFolders/Joshua_Burt/Music/Menu_Music/JB_Menu_Music.JB_Menu_Music:SoundCueGraph_0.SoundCueGraphNode_Root_0' ref from Metadata '/Game/IndividualFolders/Joshua_Burt/Music/JB_Menu_Music.PackageMetaData'
+[2020.05.11-13.26.07:703][146]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/JB_Menu_MusicEEC2CA374B29E0D69F9039B9FBBB4C4E.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Joshua_Burt/Music/Menu_Music/JB_Menu_Music.uasset'
+[2020.05.11-13.26.07:768][146]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/JB_Menu_Music440ED20D4933A6FCCF9F4BA9C7A4A6CE.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Joshua_Burt/Music/JB_Menu_Music.uasset'
+[2020.05.11-13.26.07:834][146]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Journeyman_Menu_MusicBA62705E47E5A98C7A3192A878041B82.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Joshua_Burt/Music/Menu_Music/Journeyman_Menu_Music.uasset'
+[2020.05.11-13.26.52:610][231]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Boss_Intro_Auto25576B0B24F6B149256C1D69BB585D73B.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro_Auto2.umap'
+[2020.05.11-13.26.52:626][231]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro' took 0.476
+[2020.05.11-13.26.52:626][231]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.476
+[2020.05.11-13.26.57:661][299]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\capit\Downloads\Boss_Intro_Music.wav)
+[2020.05.11-13.27.53:643][473]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Boss_Intro_Music...
+[2020.05.11-13.27.54:525][473]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 10780416 while cooking SoundWave /Game/IndividualFolders/Joshua_Burt/Music/Boss_Intro_Music/Boss_Intro_Music.Boss_Intro_Music.
+[2020.05.11-13.33.52:977][925]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.11-13.33.55:843][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-13.34.03:847][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-13.34.10:729][983]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.05.11-13.34.33:391][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-13.37.28:782][462]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Boss_Intro_Auto3020EB4704C462087B3D801B9EE1D0160.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro_Auto3.umap'
+[2020.05.11-13.37.28:786][462]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro' took 0.211
+[2020.05.11-13.37.28:786][462]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.211
+[2020.05.11-13.37.28:790][462]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro_Cutscene] ([1] browsable assets)...
+[2020.05.11-13.37.28:790][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro_Cutscene]
+[2020.05.11-13.37.28:863][462]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Boss_Intro_Cutscene_Auto3305D8FE44FB9507239B6DEB464F79A20.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro_Cutscene_Auto3.uasset'
+[2020.05.11-13.37.28:865][462]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IndividualFolders/Joshua_Burt/Music/Boss_Intro_Music/Boss_Intro_Music] ([1] browsable assets)...
+[2020.05.11-13.37.28:884][462]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/IndividualFolders/Joshua_Burt/Music/Boss_Intro_Music/Boss_Intro_Music.Boss_Intro_Music]
+[2020.05.11-13.37.28:885][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/IndividualFolders/Joshua_Burt/Music/Boss_Intro_Music/Boss_Intro_Music]
+[2020.05.11-13.37.28:898][462]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Boss_Intro_Music_Auto3508B58CD44F5A969DDD048B73C422507.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Joshua_Burt/Music/Boss_Intro_Music/Boss_Intro_Music_Auto3.uasset'
+[2020.05.11-13.37.28:900][462]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IndividualFolders/Joshua_Burt/Music/Boss_Intro_Music/Boss_Intro_Music_Cue] ([1] browsable assets)...
+[2020.05.11-13.37.28:900][462]OBJ SavePackage: Finished generating thumbnails for package [/Game/IndividualFolders/Joshua_Burt/Music/Boss_Intro_Music/Boss_Intro_Music_Cue]
+[2020.05.11-13.37.28:905][462]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Boss_Intro_Music_Cue_Auto3C88DAC9B4EC43FA92C5874B24439B576.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Joshua_Burt/Music/Boss_Intro_Music/Boss_Intro_Music_Cue_Auto3.uasset'
+[2020.05.11-13.37.28:906][462]LogFileHelpers: Auto-saving content packages took 0.118
+[2020.05.11-13.46.02:737][342]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\capit\Downloads\Boss_Roar_End_Of_Cutscene_mixdown.wav)
+[2020.05.11-13.46.08:053][567]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Boss_Roar_End_Of_Cutscene_mixdown...
+[2020.05.11-13.46.08:307][567]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 4216320 while cooking SoundWave /Game/IndividualFolders/Joshua_Burt/Sound_Effects/Boss_SFX/Boss_Roar_End_Of_Cutscene_mixdown.Boss_Roar_End_Of_Cutscene_mixdown.
+[2020.05.11-13.46.52:587][215]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.05.11-13.47.04:946][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-13.47.07:089][ 79]Cmd: TRANSACTION UNDO
+[2020.05.11-13.47.07:090][ 79]LogEditorTransaction: Undo Animatable Property Changed
+[2020.05.11-13.47.17:213][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-13.47.26:119][196]LogEditorViewport: Clicking on Actor (LMB): Cinematic_Boss_C (Cinematic_Boss)
+[2020.05.11-13.47.29:886][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-13.47.33:419][628]LogEditorViewport: Clicking on Actor (LMB): Space_Skybox_C (Space_Skybox)
+[2020.05.11-13.47.36:931][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-13.47.41:292][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-13.49.55:043][ 42]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.11-13.49.55:065][ 42]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-13.49.55:068][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.11-13.49.55:069][ 42]PIE: New page: PIE session: Boss_Intro (11 May 2020 15:49:55)
+[2020.05.11-13.49.55:074][ 42]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro
+[2020.05.11-13.49.55:111][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036409s)
+[2020.05.11-13.49.55:144][ 42]LogAIModule: Creating AISystem for world Boss_Intro
+[2020.05.11-13.49.55:154][ 42]LogPlayLevel: PIE: World Init took: (0.043685s)
+[2020.05.11-13.49.55:154][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro to /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro.Boss_Intro (0.080734s)
+[2020.05.11-13.49.55:196][ 42]LogInit: XAudio2 using 'Headphone (3- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.11-13.49.55:210][ 42]LogInit: FAudioDevice initialized.
+[2020.05.11-13.49.55:251][ 42]LogLoad: Game class is 'Asteroids_C'
+[2020.05.11-13.49.55:266][ 42]LogWorld: Bringing World /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro.Boss_Intro up for play (max tick rate 60) at 2020.05.11-14.49.55
+[2020.05.11-13.49.55:274][ 42]LogWorld: Bringing up level for play took: 0.014868
+[2020.05.11-13.49.55:321][ 42]PIE: Play in editor start time for /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/UEDPIE_0_Boss_Intro 0.37
+[2020.05.11-13.49.55:321][ 42]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-13.51.17:163][949]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-13.51.17:165][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-13.51.17:212][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.11-13.51.17:213][949]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.Boss_Intro:PersistentLevel.Boss_Intro'
+[2020.05.11-13.51.17:240][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-13.51.17:269][950]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.05.11-13.51.18:054][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-13.52.45:001][ 91]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Boss_Intro_Auto4F9BE56EA4B3E4C4924751AB7CAAF1A12.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro_Auto4.umap'
+[2020.05.11-13.52.45:004][ 91]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro' took 0.152
+[2020.05.11-13.52.45:004][ 91]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.152
+[2020.05.11-13.52.45:005][ 91]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro_Cutscene] ([1] browsable assets)...
+[2020.05.11-13.52.45:005][ 91]OBJ SavePackage: Finished generating thumbnails for package [/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro_Cutscene]
+[2020.05.11-13.52.45:065][ 91]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Boss_Intro_Cutscene_Auto460AFFB484D3CF242B6FFC4927AE8EC63.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro_Cutscene_Auto4.uasset'
+[2020.05.11-13.52.45:066][ 91]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IndividualFolders/Joshua_Burt/Sound_Effects/Boss_SFX/Boss_Roar_End_Of_Cutscene_mixdown] ([1] browsable assets)...
+[2020.05.11-13.52.45:075][ 91]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/IndividualFolders/Joshua_Burt/Sound_Effects/Boss_SFX/Boss_Roar_End_Of_Cutscene_mixdown.Boss_Roar_End_Of_Cutscene_mixdown]
+[2020.05.11-13.52.45:075][ 91]OBJ SavePackage: Finished generating thumbnails for package [/Game/IndividualFolders/Joshua_Burt/Sound_Effects/Boss_SFX/Boss_Roar_End_Of_Cutscene_mixdown]
+[2020.05.11-13.52.45:080][ 91]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Boss_Roar_End_Of_Cutscene_mixdow5C958D474C4179A066066594B001961A.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Joshua_Burt/Sound_Effects/Boss_SFX/Boss_Roar_End_Of_Cutscene_mixdown_Auto4.uasset'
+[2020.05.11-13.52.45:090][ 91]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IndividualFolders/Joshua_Burt/Sound_Effects/Boss_SFX/Boss_Roar_Cue] ([1] browsable assets)...
+[2020.05.11-13.52.45:090][ 91]OBJ SavePackage: Finished generating thumbnails for package [/Game/IndividualFolders/Joshua_Burt/Sound_Effects/Boss_SFX/Boss_Roar_Cue]
+[2020.05.11-13.52.45:093][ 91]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Boss_Roar_Cue_Auto48ECD606049D99FF70405BB9658D211F2.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Joshua_Burt/Sound_Effects/Boss_SFX/Boss_Roar_Cue_Auto4.uasset'
+[2020.05.11-13.52.45:094][ 91]LogFileHelpers: Auto-saving content packages took 0.089
+[2020.05.11-13.53.13:413][786]LogAIModule: Creating AISystem for world JB_Warp_Sequence_Level
+[2020.05.11-13.53.13:417][786]LogAssetEditorManager: Opening Asset editor for World /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level.JB_Warp_Sequence_Level
+[2020.05.11-13.53.14:551][786]LogSlate: Window 'Save Content' being destroyed
+[2020.05.11-13.53.14:708][786]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Boss_IntroC2CCEB3D4A0D2B0A7D1B6982F3EA025F.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro.umap'
+[2020.05.11-13.53.14:747][786]LogFileHelpers: Saving map 'Boss_Intro' took 0.185
+[2020.05.11-13.53.14:809][786]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Boss_Intro_CutsceneA271671F45DF6069DAA3E5B5449945A6.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Joshua_Burt/JB_Cinematics/Boss_Sequence/Boss_Intro_Cutscene.uasset'
+[2020.05.11-13.53.14:852][786]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/JB_Warp_Sequence349227764CA7D369226D6B85CCC3F3AE.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence.uasset'
+[2020.05.11-13.53.14:861][786]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Boss_Intro_Music61F1D71348A8A43B0B400F82C9BD350C.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Joshua_Burt/Music/Boss_Intro_Music/Boss_Intro_Music.uasset'
+[2020.05.11-13.53.14:865][786]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Boss_Intro_Music_Cue1EBF6BE94CCA7A0FD092839B12212006.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Joshua_Burt/Music/Boss_Intro_Music/Boss_Intro_Music_Cue.uasset'
+[2020.05.11-13.53.14:869][786]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Boss_Roar_Cue22AF82E7448E6DA29E12EAB75FE92E60.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Joshua_Burt/Sound_Effects/Boss_SFX/Boss_Roar_Cue.uasset'
+[2020.05.11-13.53.14:874][786]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Boss_Roar_End_Of_Cutscene_mixdow2B2BB3744517FA1C19CE289A81EB8B52.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Joshua_Burt/Sound_Effects/Boss_SFX/Boss_Roar_End_Of_Cutscene_mixdown.uasset'
+[2020.05.11-13.53.14:878][786]LightingResults: New page: Lighting Build
+[2020.05.11-13.53.14:881][786]LoadErrors: New page: Loading map: JB_Warp_Sequence_Level.umap
+[2020.05.11-13.53.14:883][786]MapCheck: New page: Map Check
+[2020.05.11-13.53.14:883][786]LightingResults: New page: Lighting Build
+[2020.05.11-13.53.14:911][786]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.11-13.53.14:967][786]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.11-13.53.14:968][786]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.276ms to complete.
+[2020.05.11-13.53.14:968][786]LogFileHelpers: Loading map 'JB_Warp_Sequence_Level' took 0.094
+[2020.05.11-13.53.15:047][786]LogAIModule: Creating AISystem for world Boss_Intro
+[2020.05.11-13.53.18:712][  5]MapCheck: New page: Map Check
+[2020.05.11-13.53.18:741][  5]LightingResults: New page: Lighting Build - 11 May 2020 15:53:18
+[2020.05.11-13.53.18:797][  5]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.05.11-13.53.18:844][  5]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.05.11-13.53.18:866][  5]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.05.11-13.53.19:893][  5]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.05.11-13.53.19:893][  5]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2376
+[2020.05.11-13.53.27:988][  5]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.05.11-13.53.27:990][  5]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.05.11-13.53.27:990][  5]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.05.11-13.53.27:990][  5]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.05.11-13.53.27:990][  5]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.05.11-13.53.27:990][  5]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.05.11-13.53.28:144][  5]LogEditorBuildUtils: Build time 0:09
+[2020.05.11-13.53.28:169][  5]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2020.05.11-13.53.28:195][  5]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.05.11-13.53.28:195][  5]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2020.05.11-13.53.28:207][  5]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.05.11-13.53.28:218][  6]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert2, compiling. 
+[2020.05.11-13.53.28:229][  6]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.05.11-13.53.28:229][  6]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer lambert2, compiling. 
+[2020.05.11-13.53.28:233][  6]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.05.11-13.53.31:655][135]LightingResults: Warning: DB_Mesh_AlphaShip Object has overlapping UVs.
+[2020.05.11-13.53.31:655][135]LightingResults: DB_Mesh_AlphaShip Lightmap UV are overlapping by 36.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.05.11-13.53.31:881][149]Job is a success!
+[2020.05.11-13.53.31:941][150]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2020.05.11-13.53.31:941][150]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.05.11-13.53.31:941][150]LogVolumetricLightmapImport:      BrickData 20x5x5 = 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.05.11-13.53.31:941][150]LogVolumetricLightmapImport:      Bricks at Level
+[2020.05.11-13.53.31:941][150]LogVolumetricLightmapImport:          0: 25.0% covering 100.0% of volume
+[2020.05.11-13.53.31:941][150]LogVolumetricLightmapImport:          1: 25.0% covering 1.6% of volume
+[2020.05.11-13.53.31:941][150]LogVolumetricLightmapImport:          2: 50.0% covering 0.0% of volume
+[2020.05.11-13.53.31:976][150]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2020.05.11-13.53.31:976][150]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2020.05.11-13.53.31:976][150]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X64)
+[2020.05.11-13.53.32:008][150]Lightmass on LAPTOP-1BKD0DTU: 1.29 sec total, 87 ms importing, 33 ms setup, 704 ms photons, 421 ms processing, 0 ms extra exporting [1/1 mappings]. Threads: 4.14 sec total, 45 ms processing.
+[2020.05.11-13.53.32:043][150]LogStaticLightingSystem: Illumination: 13.2 sec (13 ms encoding lightmaps, 4 ms encoding shadowmaps)
+[2020.05.11-13.53.32:043][150]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.05.11-13.53.32:043][150]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2020.05.11-13.53.33:004][150]DumpUnbuiltLightIteractions
+[2020.05.11-13.53.33:004][150]Lights with unbuilt interactions: 0
+[2020.05.11-13.53.33:004][150]
+[2020.05.11-13.53.33:004][150]Primitives with unbuilt interactions: 0
+[2020.05.11-13.53.33:119][151]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.05.11-13.53.33:119][151]MapCheck: New page: JB_Warp_Sequence_Level - 11 May 2020 15:53:33
+[2020.05.11-13.53.33:120][151]MapCheck: Warning: Space_Skybox_2 Collision enabled but StaticMesh (SM_SkySphere) has no simple or complex collision. 
+[2020.05.11-13.53.33:121][151]MapCheck: Warning: Space_Skybox_2 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.05.11-13.53.33:122][151]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 2.823ms to complete.
+[2020.05.11-13.53.40:494][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DB_Mesh_AlphaShip)
+[2020.05.11-13.53.45:349][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-13.53.51:375][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-13.53.51:441][246]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.11-13.53.51:460][246]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level.JB_Warp_Sequence_Level:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level.JB_Warp_Sequence_Level:PersistentLevel.JB_Warp_Sequence_Level' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level.JB_Warp_Sequence_Level_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level.JB_Warp_Sequence_Level:PersistentLevel.JB_Warp_Sequence_Level'
+[2020.05.11-13.53.51:460][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.11-13.53.51:460][246]PIE: New page: PIE session: JB_Warp_Sequence_Level (11 May 2020 15:53:51)
+[2020.05.11-13.53.51:461][246]LogPlayLevel: Creating play world package: /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/UEDPIE_0_JB_Warp_Sequence_Level
+[2020.05.11-13.53.51:462][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001423s)
+[2020.05.11-13.53.51:463][246]LogAIModule: Creating AISystem for world JB_Warp_Sequence_Level
+[2020.05.11-13.53.51:463][246]LogPlayLevel: PIE: World Init took: (0.000465s)
+[2020.05.11-13.53.51:463][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level.JB_Warp_Sequence_Level to /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/UEDPIE_0_JB_Warp_Sequence_Level.JB_Warp_Sequence_Level (0.002108s)
+[2020.05.11-13.53.51:495][246]LogInit: XAudio2 using 'Headphone (3- Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.05.11-13.53.51:506][246]LogInit: FAudioDevice initialized.
+[2020.05.11-13.53.51:537][246]LogLoad: Game class is 'Asteroids_C'
+[2020.05.11-13.53.51:538][246]LogWorld: Bringing World /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/UEDPIE_0_JB_Warp_Sequence_Level.JB_Warp_Sequence_Level up for play (max tick rate 60) at 2020.05.11-14.53.51
+[2020.05.11-13.53.51:539][246]LogWorld: Bringing up level for play took: 0.000512
+[2020.05.11-13.53.51:556][246]PIE: Play in editor start time for /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/UEDPIE_0_JB_Warp_Sequence_Level 0.604
+[2020.05.11-13.53.51:556][246]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level.JB_Warp_Sequence_Level:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level.JB_Warp_Sequence_Level:PersistentLevel.JB_Warp_Sequence_Level' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level.JB_Warp_Sequence_Level_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level.JB_Warp_Sequence_Level:PersistentLevel.JB_Warp_Sequence_Level'
+[2020.05.11-13.54.08:517][264]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level.JB_Warp_Sequence_Level:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level.JB_Warp_Sequence_Level:PersistentLevel.JB_Warp_Sequence_Level' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level.JB_Warp_Sequence_Level_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level.JB_Warp_Sequence_Level:PersistentLevel.JB_Warp_Sequence_Level'
+[2020.05.11-13.54.08:518][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-13.54.08:555][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.11-13.54.08:555][264]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level.JB_Warp_Sequence_Level:PersistentLevel' has LevelScriptBlueprint '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level.JB_Warp_Sequence_Level:PersistentLevel.JB_Warp_Sequence_Level' with GeneratedClass '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level.JB_Warp_Sequence_Level_C' with ClassGeneratedBy '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level.JB_Warp_Sequence_Level:PersistentLevel.JB_Warp_Sequence_Level'
+[2020.05.11-13.54.08:578][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.11-13.54.08:628][267]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.05.11-13.54.24:679][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-13.58.33:559][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.11-14.03.31:938][790]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/JB_Warp_Sequence_Level_Auto53080F87F4469B22F9725868FC977848F.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Autosaves/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level_Auto5.umap'
+[2020.05.11-14.03.31:940][790]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level' took 0.144
+[2020.05.11-14.03.31:940][790]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.144
+[2020.05.11-14.13.32:432][583]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level' took 0.020
+[2020.05.11-14.23.33:085][437]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level' took 0.023
+[2020.05.11-14.32.39:261][552]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\capit\Downloads\Ship_Hyperdrive_Charge.wav)
+[2020.05.11-14.32.44:752][843]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Ship_Hyperdrive_Charge...
+[2020.05.11-14.32.44:909][843]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2161152 while cooking SoundWave /Game/IndividualFolders/Joshua_Burt/Sound_Effects/Ship_SFX/Ship_Hyperdrive_Charge.Ship_Hyperdrive_Charge.
+[2020.05.11-14.33.04:228][  2]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence.JB_Warp_Sequence
+[2020.05.11-14.38.01:569][ 97]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\capit\Downloads\Ship_Hyperdrive_Launch_mixdown.wav)
+[2020.05.11-14.38.07:418][370]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Ship_Hyperdrive_Launch_mixdown...
+[2020.05.11-14.38.07:505][370]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1405440 while cooking SoundWave /Game/IndividualFolders/Joshua_Burt/Sound_Effects/Ship_SFX/Ship_Hyperdrive_Launch_mixdown.Ship_Hyperdrive_Launch_mixdown.
+[2020.05.11-14.39.07:114][930]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/JB_Warp_Sequence_Level301D2E0F4953F7EFA176B18F0250CB31.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level.umap'
+[2020.05.11-14.39.07:151][930]LogFileHelpers: Saving map 'JB_Warp_Sequence_Level' took 0.169
+[2020.05.11-14.39.07:162][930]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/JB_Warp_Sequence_Level_BuiltDataDB21268F4B141C75E5E773B4B883AC03.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence_Level_BuiltData.uasset'
+[2020.05.11-14.39.07:208][930]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/JB_Warp_SequenceDEE8253A4ACA0A613EDA61A707924652.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Joshua_Burt/JB_Cinematics/JB_Warp_Sequence.uasset'
+[2020.05.11-14.39.07:225][930]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Ship_Hyperdrive_ChargeDF40AE39449527D87779B39DB64B19AB.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Joshua_Burt/Sound_Effects/Ship_SFX/Ship_Hyperdrive_Charge.uasset'
+[2020.05.11-14.39.07:232][930]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Ship_Hyperdrive_Charge_CueFBAAF4A54BAEB6A8901FFE889E8B11A2.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Joshua_Burt/Sound_Effects/Ship_SFX/Ship_Hyperdrive_Charge_Cue.uasset'
+[2020.05.11-14.39.07:246][930]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Ship_Hyperdrive_Launch_mixdownCCF4E8604E4757E186E9E480709A9477.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Joshua_Burt/Sound_Effects/Ship_SFX/Ship_Hyperdrive_Launch_mixdown.uasset'
+[2020.05.11-14.39.07:253][930]LogSavePackage: Moving '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Saved/Ship_Hyperdrive_Launch_mixdown_C397274984B80378858E759B1FD82C90A.tmp' to '../../../../../../Users/capit/Documents/Unreal Projects/Github/Atlas-Studios/Asteroids_2020/Content/IndividualFolders/Joshua_Burt/Sound_Effects/Ship_SFX/Ship_Hyperdrive_Launch_mixdown_Cue.uasset'
+[2020.05.11-14.39.09:561][ 58]LogSlate: Window 'Asteroids_2020 - Unreal Editor' being destroyed
+[2020.05.11-14.39.09:563][ 58]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.11-14.39.09:805][ 59]Cmd: QUIT_EDITOR
+[2020.05.11-14.39.10:266][ 59]LogExit: Preparing to exit.
+[2020.05.11-14.39.11:189][ 59]LogExit: Editor shut down
+[2020.05.11-14.39.11:189][ 59]LogExit: Transaction tracking system shut down
+[2020.05.11-14.39.11:580][ 59]LogExit: Object subsystem successfully closed.
+[2020.05.11-14.39.11:640][ 59]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.11-14.39.11:648][ 59]LogD3D11RHI: Shutdown
+[2020.05.11-14.39.11:648][ 59]LogD3D11RHI: CleanupD3DDevice
+[2020.05.11-14.39.11:666][ 59]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.05.11-14.39.11:812][ 59]LogModuleManager: Shutting down and abandoning module SequencerWidgets (632)
+[2020.05.11-14.39.11:812][ 59]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (630)
+[2020.05.11-14.39.11:812][ 59]LogModuleManager: Shutting down and abandoning module Voice (628)
+[2020.05.11-14.39.11:812][ 59]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (626)
+[2020.05.11-14.39.11:812][ 59]LogModuleManager: Shutting down and abandoning module SceneOutliner (624)
+[2020.05.11-14.39.11:812][ 59]LogModuleManager: Shutting down and abandoning module AddContentDialog (622)
+[2020.05.11-14.39.11:819][ 59]LogModuleManager: Shutting down and abandoning module WidgetCarousel (621)
+[2020.05.11-14.39.11:819][ 59]LogModuleManager: Shutting down and abandoning module EditorWidgets (618)
+[2020.05.11-14.39.11:819][ 59]LogModuleManager: Shutting down and abandoning module CollectionManager (616)
+[2020.05.11-14.39.11:821][ 59]LogModuleManager: Shutting down and abandoning module StatsViewer (614)
+[2020.05.11-14.39.11:822][ 59]LogModuleManager: Shutting down and abandoning module FoliageEdit (612)
+[2020.05.11-14.39.11:822][ 59]LogModuleManager: Shutting down and abandoning module LandscapeEditor (610)
+[2020.05.11-14.39.11:826][ 59]LogModuleManager: Shutting down and abandoning module MeshPaintMode (608)
+[2020.05.11-14.39.11:826][ 59]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (606)
+[2020.05.11-14.39.11:826][ 59]LogModuleManager: Shutting down and abandoning module ActorPickerMode (604)
+[2020.05.11-14.39.11:826][ 59]LogModuleManager: Shutting down and abandoning module GeometryMode (602)
+[2020.05.11-14.39.11:826][ 59]LogModuleManager: Shutting down and abandoning module TextureAlignMode (600)
+[2020.05.11-14.39.11:826][ 59]LogModuleManager: Shutting down and abandoning module BspMode (598)
+[2020.05.11-14.39.11:827][ 59]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (596)
+[2020.05.11-14.39.11:827][ 59]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (594)
+[2020.05.11-14.39.11:827][ 59]LogModuleManager: Shutting down and abandoning module AutomationWorker (592)
+[2020.05.11-14.39.11:828][ 59]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (590)
+[2020.05.11-14.39.11:828][ 59]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (588)
+[2020.05.11-14.39.11:828][ 59]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (586)
+[2020.05.11-14.39.11:829][ 59]LogModuleManager: Shutting down and abandoning module PlacementMode (585)
+[2020.05.11-14.39.11:829][ 59]LogModuleManager: Shutting down and abandoning module MaterialEditor (584)
+[2020.05.11-14.39.11:833][ 59]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (580)
+[2020.05.11-14.39.11:833][ 59]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (578)
+[2020.05.11-14.39.11:833][ 59]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (576)
+[2020.05.11-14.39.11:834][ 59]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (574)
+[2020.05.11-14.39.11:834][ 59]LogModuleManager: Shutting down and abandoning module WebMMedia (572)
+[2020.05.11-14.39.11:834][ 59]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (570)
+[2020.05.11-14.39.11:836][ 59]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (568)
+[2020.05.11-14.39.11:836][ 59]LogModuleManager: Shutting down and abandoning module SequenceRecorder (567)
+[2020.05.11-14.39.11:838][ 59]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (564)
+[2020.05.11-14.39.11:838][ 59]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (562)
+[2020.05.11-14.39.11:838][ 59]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (560)
+[2020.05.11-14.39.11:838][ 59]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (558)
+[2020.05.11-14.39.11:838][ 59]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (556)
+[2020.05.11-14.39.11:838][ 59]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (554)
+[2020.05.11-14.39.11:838][ 59]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (552)
+[2020.05.11-14.39.11:838][ 59]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (550)
+[2020.05.11-14.39.11:838][ 59]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (548)
+[2020.05.11-14.39.11:838][ 59]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (546)
+[2020.05.11-14.39.11:838][ 59]LogModuleManager: Shutting down and abandoning module CharacterAI (544)
+[2020.05.11-14.39.11:838][ 59]LogModuleManager: Shutting down and abandoning module SmartSnapping (542)
+[2020.05.11-14.39.11:839][ 59]LogModuleManager: Shutting down and abandoning module SessionServices (540)
+[2020.05.11-14.39.11:839][ 59]LogModuleManager: Shutting down and abandoning module ViewportSnapping (538)
+[2020.05.11-14.39.11:839][ 59]LogModuleManager: Shutting down and abandoning module ViewportInteraction (536)
+[2020.05.11-14.39.11:839][ 59]LogModuleManager: Shutting down and abandoning module ClothPainter (534)
+[2020.05.11-14.39.11:842][ 59]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (533)
+[2020.05.11-14.39.11:844][ 59]LogModuleManager: Shutting down and abandoning module LogVisualizer (530)
+[2020.05.11-14.39.11:846][ 59]LogModuleManager: Shutting down and abandoning module IntroTutorials (528)
+[2020.05.11-14.39.11:848][ 59]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (527)
+[2020.05.11-14.39.11:849][ 59]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (524)
+[2020.05.11-14.39.11:849][ 59]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (522)
+[2020.05.11-14.39.11:850][ 59]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (520)
+[2020.05.11-14.39.11:850][ 59]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (518)
+[2020.05.11-14.39.11:850][ 59]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (517)
+[2020.05.11-14.39.12:328][ 59]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (514)
+[2020.05.11-14.39.12:328][ 59]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (512)
+[2020.05.11-14.39.12:328][ 59]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (510)
+[2020.05.11-14.39.12:328][ 59]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (508)
+[2020.05.11-14.39.12:328][ 59]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (506)
+[2020.05.11-14.39.12:329][ 59]LogModuleManager: Shutting down and abandoning module InputBindingEditor (504)
+[2020.05.11-14.39.12:330][ 59]LogModuleManager: Shutting down and abandoning module MergeActors (502)
+[2020.05.11-14.39.12:331][ 59]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (500)
+[2020.05.11-14.39.12:332][ 59]LogModuleManager: Shutting down and abandoning module LocalizationService (499)
+[2020.05.11-14.39.12:333][ 59]LogModuleManager: Shutting down and abandoning module HardwareTargeting (496)
+[2020.05.11-14.39.12:333][ 59]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (494)
+[2020.05.11-14.39.12:333][ 59]LogModuleManager: Shutting down and abandoning module UndoHistory (492)
+[2020.05.11-14.39.12:334][ 59]LogModuleManager: Shutting down and abandoning module XmlParser (490)
+[2020.05.11-14.39.12:334][ 59]LogModuleManager: Shutting down and abandoning module Blutility (488)
+[2020.05.11-14.39.12:334][ 59]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (486)
+[2020.05.11-14.39.12:334][ 59]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (485)
+[2020.05.11-14.39.12:336][ 59]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (482)
+[2020.05.11-14.39.12:336][ 59]LogModuleManager: Shutting down and abandoning module SettingsEditor (480)
+[2020.05.11-14.39.12:338][ 59]LogModuleManager: Shutting down and abandoning module ProjectLauncher (478)
+[2020.05.11-14.39.12:339][ 59]LogModuleManager: Shutting down and abandoning module SessionFrontend (476)
+[2020.05.11-14.39.12:340][ 59]LogModuleManager: Shutting down and abandoning module ProfilerClient (474)
+[2020.05.11-14.39.12:341][ 59]LogModuleManager: Shutting down and abandoning module DeviceManager (472)
+[2020.05.11-14.39.12:341][ 59]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (471)
+[2020.05.11-14.39.12:394][ 59]LogModuleManager: Shutting down and abandoning module AutomationController (468)
+[2020.05.11-14.39.12:395][ 59]LogModuleManager: Shutting down and abandoning module AutomationWindow (466)
+[2020.05.11-14.39.12:395][ 59]LogModuleManager: Shutting down and abandoning module Layers (464)
+[2020.05.11-14.39.12:397][ 59]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (462)
+[2020.05.11-14.39.12:398][ 59]LogModuleManager: Shutting down and abandoning module DetailCustomizations (460)
+[2020.05.11-14.39.12:398][ 59]LogModuleManager: Shutting down and abandoning module PackagesDialog (458)
+[2020.05.11-14.39.12:398][ 59]LogModuleManager: Shutting down and abandoning module Persona (456)
+[2020.05.11-14.39.12:399][ 59]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (455)
+[2020.05.11-14.39.12:400][ 59]LogModuleManager: Shutting down and abandoning module AnimGraph (453)
+[2020.05.11-14.39.12:400][ 59]LogModuleManager: Shutting down and abandoning module Kismet (450)
+[2020.05.11-14.39.12:403][ 59]LogModuleManager: Shutting down and abandoning module GraphEditor (448)
+[2020.05.11-14.39.12:405][ 59]LogModuleManager: Shutting down and abandoning module ClassViewer (446)
+[2020.05.11-14.39.12:406][ 59]LogModuleManager: Shutting down and abandoning module Toolbox (444)
+[2020.05.11-14.39.12:406][ 59]LogModuleManager: Shutting down and abandoning module ModuleUI (442)
+[2020.05.11-14.39.12:406][ 59]LogModuleManager: Shutting down and abandoning module MovieSceneTools (440)
+[2020.05.11-14.39.12:406][ 59]LogModuleManager: Shutting down and abandoning module OutputLog (438)
+[2020.05.11-14.39.12:407][ 59]LogModuleManager: Shutting down and abandoning module GammaUI (436)
+[2020.05.11-14.39.12:407][ 59]LogModuleManager: Shutting down and abandoning module Documentation (434)
+[2020.05.11-14.39.12:407][ 59]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (432)
+[2020.05.11-14.39.12:407][ 59]LogModuleManager: Shutting down and abandoning module MovieScene (430)
+[2020.05.11-14.39.12:407][ 59]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (428)
+[2020.05.11-14.39.12:407][ 59]LogModuleManager: Shutting down and abandoning module LauncherPlatform (426)
+[2020.05.11-14.39.12:407][ 59]LogModuleManager: Shutting down and abandoning module AnalyticsET (424)
+[2020.05.11-14.39.12:407][ 59]LogModuleManager: Shutting down and abandoning module PortalServices (422)
+[2020.05.11-14.39.12:407][ 59]LogModuleManager: Shutting down and abandoning module PortalRpc (420)
+[2020.05.11-14.39.12:407][ 59]LogModuleManager: Shutting down and abandoning module MessagingRpc (418)
+[2020.05.11-14.39.12:407][ 59]LogModuleManager: Shutting down and abandoning module AIModule (416)
+[2020.05.11-14.39.12:408][ 59]LogModuleManager: Shutting down and abandoning module GameplayDebugger (415)
+[2020.05.11-14.39.12:408][ 59]LogModuleManager: Shutting down and abandoning module AITestSuite (413)
+[2020.05.11-14.39.12:409][ 59]LogModuleManager: Shutting down and abandoning module NavigationSystem (411)
+[2020.05.11-14.39.12:409][ 59]LogModuleManager: Shutting down and abandoning module DesktopPlatform (408)
+[2020.05.11-14.39.12:409][ 59]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (406)
+[2020.05.11-14.39.12:412][ 59]LogModuleManager: Shutting down and abandoning module ProfilerService (404)
+[2020.05.11-14.39.12:442][ 59]LogModuleManager: Shutting down and abandoning module TaskGraph (402)
+[2020.05.11-14.39.12:444][ 59]LogModuleManager: Shutting down and abandoning module SteamVRController (400)
+[2020.05.11-14.39.12:444][ 59]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (398)
+[2020.05.11-14.39.12:444][ 59]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (396)
+[2020.05.11-14.39.12:444][ 59]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.05.11-14.39.12:444][ 59]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.05.11-14.39.12:444][ 59]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.05.11-14.39.12:445][ 59]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.05.11-14.39.12:445][ 59]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.05.11-14.39.12:445][ 59]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.05.11-14.39.12:445][ 59]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.05.11-14.39.12:445][ 59]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.05.11-14.39.12:445][ 59]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.05.11-14.39.12:445][ 59]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.05.11-14.39.12:447][ 59]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.05.11-14.39.12:447][ 59]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.05.11-14.39.12:447][ 59]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.05.11-14.39.12:451][ 59]LogModuleManager: Shutting down and abandoning module HTML5Networking (368)
+[2020.05.11-14.39.12:451][ 59]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (366)
+[2020.05.11-14.39.12:451][ 59]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (364)
+[2020.05.11-14.39.12:451][ 59]LogModuleManager: Shutting down and abandoning module BackChannel (362)
+[2020.05.11-14.39.12:452][ 59]LogModuleManager: Shutting down and abandoning module AppleVision (360)
+[2020.05.11-14.39.12:452][ 59]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (358)
+[2020.05.11-14.39.12:452][ 59]LogModuleManager: Shutting down and abandoning module AppleImageUtils (356)
+[2020.05.11-14.39.12:452][ 59]LogModuleManager: Shutting down and abandoning module AlembicImporter (354)
+[2020.05.11-14.39.12:452][ 59]LogModuleManager: Shutting down and abandoning module AlembicLibrary (353)
+[2020.05.11-14.39.12:452][ 59]LogModuleManager: Shutting down and abandoning module GeometryCache (352)
+[2020.05.11-14.39.12:452][ 59]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (351)
+[2020.05.11-14.39.12:452][ 59]LogModuleManager: Shutting down and abandoning module VariantManagerContent (346)
+[2020.05.11-14.39.12:452][ 59]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2020.05.11-14.39.12:452][ 59]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (342)
+[2020.05.11-14.39.12:452][ 59]LogModuleManager: Shutting down and abandoning module PluginBrowser (340)
+[2020.05.11-14.39.12:454][ 59]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (338)
+[2020.05.11-14.39.12:456][ 59]LogModuleManager: Shutting down and abandoning module PolygonModeling (336)
+[2020.05.11-14.39.12:456][ 59]LogModuleManager: Shutting down and abandoning module MeshEditor (334)
+[2020.05.11-14.39.12:456][ 59]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (332)
+[2020.05.11-14.39.12:456][ 59]LogModuleManager: Shutting down and abandoning module CryptoKeys (330)
+[2020.05.11-14.39.12:456][ 59]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (328)
+[2020.05.11-14.39.12:456][ 59]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (326)
+[2020.05.11-14.39.12:456][ 59]LogModuleManager: Shutting down and abandoning module UObjectPlugin (324)
+[2020.05.11-14.39.12:456][ 59]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (322)
+[2020.05.11-14.39.12:458][ 59]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (320)
+[2020.05.11-14.39.12:459][ 59]LogModuleManager: Shutting down and abandoning module GitSourceControl (318)
+[2020.05.11-14.39.12:461][ 59]LogModuleManager: Shutting down and abandoning module SourceControl (317)
+[2020.05.11-14.39.12:461][ 59]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (314)
+[2020.05.11-14.39.12:461][ 59]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (312)
+[2020.05.11-14.39.12:461][ 59]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (310)
+[2020.05.11-14.39.12:461][ 59]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2020.05.11-14.39.12:461][ 59]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2020.05.11-14.39.12:461][ 59]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2020.05.11-14.39.12:461][ 59]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2020.05.11-14.39.12:462][ 59]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2020.05.11-14.39.12:462][ 59]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2020.05.11-14.39.12:462][ 59]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2020.05.11-14.39.12:463][ 59]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2020.05.11-14.39.12:463][ 59]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2020.05.11-14.39.12:463][ 59]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2020.05.11-14.39.12:463][ 59]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (288)
+[2020.05.11-14.39.12:464][ 59]LogModuleManager: Shutting down and abandoning module ApexDestruction (286)
+[2020.05.11-14.39.12:464][ 59]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.05.11-14.39.12:464][ 59]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.05.11-14.39.12:566][ 59]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.05.11-14.39.12:668][ 59]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2020.05.11-14.39.12:668][ 59]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.05.11-14.39.12:669][ 59]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.05.11-14.39.12:669][ 59]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.05.11-14.39.12:669][ 59]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.05.11-14.39.12:669][ 59]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.05.11-14.39.12:670][ 59]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.05.11-14.39.12:673][ 59]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.05.11-14.39.12:674][ 59]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.05.11-14.39.12:675][ 59]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.05.11-14.39.12:675][ 59]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.05.11-14.39.12:676][ 59]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.05.11-14.39.12:678][ 59]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.05.11-14.39.12:678][ 59]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.05.11-14.39.12:678][ 59]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2020.05.11-14.39.12:678][ 59]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.05.11-14.39.12:679][ 59]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.05.11-14.39.12:679][ 59]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2020.05.11-14.39.12:679][ 59]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2020.05.11-14.39.12:681][ 59]LogModuleManager: Shutting down and abandoning module Media (241)
+[2020.05.11-14.39.12:688][ 59]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2020.05.11-14.39.12:688][ 59]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2020.05.11-14.39.12:688][ 59]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2020.05.11-14.39.12:690][ 59]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2020.05.11-14.39.12:691][ 59]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2020.05.11-14.39.12:691][ 59]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2020.05.11-14.39.12:691][ 59]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2020.05.11-14.39.12:691][ 59]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2020.05.11-14.39.12:692][ 59]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2020.05.11-14.39.12:692][ 59]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2020.05.11-14.39.12:694][ 59]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2020.05.11-14.39.12:694][ 59]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2020.05.11-14.39.12:696][ 59]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2020.05.11-14.39.12:699][ 59]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2020.05.11-14.39.12:699][ 59]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2020.05.11-14.39.12:701][ 59]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2020.05.11-14.39.12:701][ 59]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2020.05.11-14.39.12:701][ 59]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2020.05.11-14.39.12:704][ 59]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2020.05.11-14.39.12:704][ 59]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2020.05.11-14.39.12:712][ 59]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.05.11-14.39.12:712][ 59]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.05.11-14.39.12:712][ 59]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.05.11-14.39.12:713][ 59]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.05.11-14.39.12:713][ 59]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.05.11-14.39.12:713][ 59]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.05.11-14.39.12:713][ 59]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2020.05.11-14.39.12:713][ 59]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2020.05.11-14.39.12:713][ 59]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2020.05.11-14.39.12:715][ 59]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2020.05.11-14.39.12:716][ 59]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2020.05.11-14.39.12:716][ 59]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2020.05.11-14.39.12:717][ 59]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2020.05.11-14.39.12:720][ 59]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2020.05.11-14.39.12:720][ 59]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2020.05.11-14.39.12:721][ 59]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2020.05.11-14.39.12:721][ 59]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2020.05.11-14.39.12:722][ 59]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2020.05.11-14.39.12:784][ 59]LogDerivedDataCache: Shutdown
+[2020.05.11-14.39.12:784][ 59]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2020.05.11-14.39.12:785][ 59]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2020.05.11-14.39.12:785][ 59]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2020.05.11-14.39.12:786][ 59]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2020.05.11-14.39.12:786][ 59]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2020.05.11-14.39.12:787][ 59]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2020.05.11-14.39.12:787][ 59]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2020.05.11-14.39.12:787][ 59]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2020.05.11-14.39.12:787][ 59]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2020.05.11-14.39.12:787][ 59]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2020.05.11-14.39.12:787][ 59]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2020.05.11-14.39.12:789][ 59]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2020.05.11-14.39.12:789][ 59]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2020.05.11-14.39.12:789][ 59]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2020.05.11-14.39.12:789][ 59]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2020.05.11-14.39.12:789][ 59]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2020.05.11-14.39.12:790][ 59]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2020.05.11-14.39.12:790][ 59]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2020.05.11-14.39.12:800][ 59]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.05.11-14.39.12:801][ 59]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.05.11-14.39.12:801][ 59]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2020.05.11-14.39.12:801][ 59]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2020.05.11-14.39.12:801][ 59]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2020.05.11-14.39.12:806][ 59]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2020.05.11-14.39.12:806][ 59]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2020.05.11-14.39.12:809][ 59]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2020.05.11-14.39.12:810][ 59]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2020.05.11-14.39.12:836][ 59]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2020.05.11-14.39.12:836][ 59]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2020.05.11-14.39.12:837][ 59]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2020.05.11-14.39.12:837][ 59]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2020.05.11-14.39.12:837][ 59]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2020.05.11-14.39.12:837][ 59]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2020.05.11-14.39.12:837][ 59]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2020.05.11-14.39.12:838][ 59]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2020.05.11-14.39.12:838][ 59]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2020.05.11-14.39.12:838][ 59]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2020.05.11-14.39.12:838][ 59]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2020.05.11-14.39.12:839][ 59]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2020.05.11-14.39.12:839][ 59]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2020.05.11-14.39.12:839][ 59]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.11-14.39.12:839][ 59]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2020.05.11-14.39.12:839][ 59]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2020.05.11-14.39.12:839][ 59]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2020.05.11-14.39.12:839][ 59]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2020.05.11-14.39.12:839][ 59]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2020.05.11-14.39.12:841][ 59]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2020.05.11-14.39.12:844][ 59]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2020.05.11-14.39.12:858][ 59]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2020.05.11-14.39.12:858][ 59]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.05.11-14.39.12:858][ 59]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCF5D21A2-4365-3E5D-F78F-CF81D5F24882%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=6683603c4d2322fe9ce0e8962f363724%7Ceac53418f0ee48dd8ae976401adfb783%7C40b2dfce-5d6e-436d-9e4f-fa79e80d56b4&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.05.11-14.39.12:875][ 59]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2020.05.11-14.39.12:880][ 59]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2020.05.11-14.39.12:880][ 59]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2020.05.11-14.39.12:880][ 59]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2020.05.11-14.39.12:880][ 59]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2020.05.11-14.39.12:880][ 59]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2020.05.11-14.39.12:881][ 59]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2020.05.11-14.39.12:881][ 59]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2020.05.11-14.39.12:881][ 59]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.11-14.39.12:881][ 59]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2020.05.11-14.39.12:883][ 59]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2020.05.11-14.39.12:883][ 59]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.05.11-14.39.12:884][ 59]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.05.11-14.39.12:886][ 59]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.05.11-14.39.12:887][ 59]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.05.11-14.39.12:887][ 59]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.05.11-14.39.12:887][ 59]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.05.11-14.39.12:887][ 59]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.05.11-14.39.12:892][ 59]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.05.11-14.39.12:893][ 59]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.05.11-14.39.12:893][ 59]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.05.11-14.39.12:893][ 59]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.05.11-14.39.12:893][ 59]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.05.11-14.39.12:893][ 59]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.05.11-14.39.12:893][ 59]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.05.11-14.39.12:894][ 59]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.05.11-14.39.12:894][ 59]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.05.11-14.39.12:894][ 59]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.05.11-14.39.12:894][ 59]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.05.11-14.39.12:905][ 59]LogExit: Exiting.
+[2020.05.11-14.39.12:932][ 59]Log file closed, 05/11/20 15:39:12
